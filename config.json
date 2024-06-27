@@ -1,14 +1,14 @@
 {
   "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
   "whitelisted": {
-    "360.tr": {
+    "TRT1.tr": {
       "epg": {
-        "channel": "360 HD",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "29"
-      },
-      "group": "Ulusal"
-    }
+		  "channel": "TRT1",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "144"
+		},
+		"group": "Ulusal"
+	}
   }
 }
