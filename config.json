@@ -1,0 +1,15 @@
+{
+    "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+    "whitelisted": {
+      "TRT1.tr": {
+        "epg": {
+            "channel": "TRT 1 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "23"
+          },
+          "group": "Ulusal"
+      }
+    }
+  }
+  
