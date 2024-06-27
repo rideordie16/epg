@@ -1,296 +1,452 @@
 {
   "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
   "whitelisted": {
-    "360.tr": {
-      "epg": {
-        "channel": "360 HD",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "29"
-      },
-      "group": "Ulusal"
-    },
-    "AHaber.tr": {
-      "epg": {
-        "channel": "A Haber HD",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "32"
-      },
-      "group": "Haber"
-    },
-    "ATVAvrupa.tr": {
-      "epg": {
-        "channel": "ATV Avrupa",
-        "lang": "tr",
-        "site": "ziggogo.tv",
-        "site_id": "NL_000163_019272"
-      },
-      "group": "Ulusal"
-    },
-    "BeyazTV.tr": {
-      "epg": {
-        "channel": "Beyaz TV",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "36"
-      },
-      "m3u": {
-        "group_title": "Ulusal",
-        "name": "Beyaz TV",
-        "tvg_logo": "https://i.imgur.com/uykIdML.png",
-        "url": "https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8"
-      }
-    },
-    "CNNTurk.tr": {
-      "epg": {
-        "channel": "CNN TÜRK",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "42"
-      },
-      "group": "Haber"
-    },
-    "EuroD.tr": {
-      "epg": {
-        "channel": "Euro D",
-        "lang": "tr",
-        "site": "tv.blue.ch",
-        "site_id": "161"
-      },
-      "group": "Ulusal"
-    },
-    "Fox.tr": {
-      "epg": {
-        "channel": "FOX",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "26"
-      },
-      "group": "Ulusal"
-    },
-    "HaberturkTV.tr": {
-      "epg": {
-        "channel": "Haber Türk",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "44"
-      },
-      "group": "Haber"
-    },
-    "HalkTV.tr": {
-      "epg": {
-        "channel": "HALK TV",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "53"
-      },
-      "group": "Haber"
-    },
-    "Kanal7.tr": {
-      "epg": {
-        "channel": "Kanal 7",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "34"
-      },
-      "group": "Ulusal"
-    },
-    "KanalD.tr": {
-      "epg": {
-        "channel": "Kanal D",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "24"
-      },
-      "group": "Ulusal"
-    },
-    "NTV.tr": {
-      "epg": {
-        "channel": "NTV",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "41"
-      },
-      "group": "Ulusal"
-    },
-    "Number1TV.tr": {
-      "epg": {
-        "channel": "NUMBER1 TV",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "95"
-      },
-      "m3u": {
-        "group_title": "Müzik",
-        "name": "Number 1 TV",
-        "tvg_logo": "https://i.imgur.com/02cDIBi.png",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8"
-      }
-    },
-    "PowerTV.tr": {
-      "epg": {
-        "channel": "POWER TV",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "100"
-      },
-      "group": "Müzik"
-    },
-    "ShowTV.tr": {
-      "epg": {
-        "channel": "Show TV",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "22"
-      },
-      "m3u": {
-        "group_title": "Ulusal",
-        "name": "Show TV",
-        "tvg_logo": "https://i.imgur.com/1l7SCCu.png",
-        "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8"
-      }
-    },
-    "SozcuTV.tr": {
-      "epg": {
-        "channel": "SZC",
-        "lang": "tr",
-        "site": "turksatkablo.com.tr",
-        "site_id": "3779"
-      },
-      "group": "Haber"
-    },
-    "SportsTV.tr": {
-      "epg": {
-        "channel": "Sports Tv",
-        "lang": "tr",
-        "site": "turksatkablo.com.tr",
-        "site_id": "329"
-      },
-      "group": "Spor"
-    },
-    "StarTV.tr": {
-      "epg": {
-        "channel": "Star",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "27"
-      },
-      "group": "Ulusal"
-    },
-    "Teve2.tr": {
-      "epg": {
-        "channel": "Teve2",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "54"
-      },
-      "m3u": {
-        "group_title": "Ulusal",
-        "name": "Teve2",
-        "tvg_logo": "https://i.imgur.com/rsoSLih.png",
-        "url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8"
-      }
-    },
-    "TLC.tr": {
-      "epg": {
-        "channel": "TLC",
-        "lang": "tr",
-        "site": "turksatkablo.com.tr",
-        "site_id": "1754"
-      },
-      "m3u": {
-        "group_title": "Eğlence",
-        "name": "TLC",
-        "tvg_logo": "https://i.imgur.com/8m3PMUf.png",
-        "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8"
-      }
-    },
     "TRT1.tr": {
       "epg": {
-        "channel": "TRT 1",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "23"
-      },
-      "group": "Haber"
+		  "channel": "TRT1",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "144"
+		},
+		"group": "Ulusal"
+	},
+    "KanalD.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"KanalD.tr\" site_id=\"88\">KANAL D</channel>"
     },
-    "TRT2.tr": {
-      "epg": {
-        "channel": "TRT 2",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "66"
-      },
-      "group": "Ulusal"
+    "StarTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"StarTV.tr\" site_id=\"89\">STAR TV</channel>"
     },
-    "TRTBelgesel.tr": {
-      "epg": {
-        "channel": "TRT Belgesel",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "190"
-      },
-      "group": "Belgesel"
+    "ShowTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"ShowTV.tr\" site_id=\"130\">SHOW TV</channel>"
     },
-    "TRTCocuk.tr": {
-      "epg": {
-        "channel": "TRT Çocuk",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "160"
-      },
-      "m3u": {
-        "group_title": "Çocuk",
-        "name": "TRT Çocuk",
-        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
-      }
-    },
-    "TRTHaber.tr": {
-      "epg": {
-        "channel": "TRT Haber",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "33"
-      },
-      "group": "Haber"
-    },
-    "TRTTurk.tr": {
-      "epg": {
-        "channel": "TRT Türk",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "61"
-      },
-      "group": "Haber"
+    "Fox.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Fox.tr\" site_id=\"93\">FOX</channel>"
     },
     "TV8.tr": {
-      "epg": {
-        "channel": "TV8",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "28"
-      },
-      "group": "Eğlence"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TV8.tr\" site_id=\"134\">TV8</channel>"
+    },
+    "EuroD.tr": {
+      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"EuroD.tr\" site_id=\"161\">Euro D</channel>"
+    },
+    "ShowTurk.tr": {
+      "epg": "<channel site=\"ziggogo.tv\" lang=\"tr\" xmltv_id=\"ShowTurk.tr\" site_id=\"NL_000156_020072\">ShowTürk</channel>"
+    },
+    "EuroStar.tr": {
+      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"EuroStar.tr\" site_id=\"162\">Euro Star</channel>"
+    },
+    "TRT2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRT2.tr\" site_id=\"83\">TRT 2</channel>"
+    },
+    "TRTTurk.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTTurk.tr\" site_id=\"156\">TRT TÜRK</channel>"
+    },
+    "TRTCocuk.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTCocuk.tr\" site_id=\"99\">TRT ÇOCUK</channel>"
+    },
+    "Kanal7.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Kanal7.tr\" site_id=\"90\">KANAL 7</channel>"
+    },
+    "Kanal7Avrupa.tr": {
+      "epg": "<channel site=\"vivacom.bg\" lang=\"tr\" xmltv_id=\"Kanal7Avrupa.tr\" site_id=\"24#Kanal 7 Avrupa \">Kanal 7 Avrupa</channel>"
+    },
+    "BeyazTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"BeyazTV.tr\" site_id=\"135\">BEYAZ TV</channel>"
+    },
+    "Teve2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Teve2.tr\" site_id=\"95\">TEVE2</channel>"
+    },
+    "360.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"360.tr\" site_id=\"86\">360</channel>"
+    },
+    "TV4.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TV4.tr\" site_id=\"84#59dca577cfef0b4d80a47b7c\">TV4</channel>"
+    },
+    "TGRTEU.tr": {
+      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"TGRTEU.tr\" site_id=\"602\">TGRT EU</channel>"
+    },
+    "Tivi6.tr": {
+      "epg": "<channel site=\"turksatkablo.com.tr\" lang=\"tr\" xmltv_id=\"Tivi6.tr\" site_id=\"3719\">TİVİ 6</channel>"
+    },
+    "TRTSpor.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTSpor.tr\" site_id=\"31\">TRT SPOR</channel>"
+    },
+    "TRTSporYildiz.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTSporYildiz.tr\" site_id=\"205\">TRT SPOR YILDIZ</channel>"
+    },
+    "SportsTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SportsTV.tr\" site_id=\"173\">SPORTS TV</channel>"
+    },
+    "GSTV.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"GSTV.tr\" site_id=\"75\">GS TV HD</channel>"
+    },
+    "TRTBelgesel.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTBelgesel.tr\" site_id=\"21\">TRT BELGESEL</channel>"
+    },
+    "TRTAvaz.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTAvaz.tr\" site_id=\"193\">TRT AVAZ</channel>"
+    },
+    "TGRTBelgesel.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TGRTBelgesel.tr\" site_id=\"122#59dca751cfef0b4d80a47b88\">TGRT Belgesel</channel>"
+    },
+    "TRTHaber.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTHaber.tr\" site_id=\"30\">TRT HABER</channel>"
+    },
+    "CNNTurk.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"CNNTurk.tr\" site_id=\"158\">CNN TÜRK</channel>"
+    },
+    "NTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"NTV.tr\" site_id=\"81\">NTV</channel>"
+    },
+    "HalkTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HalkTV.tr\" site_id=\"91\">HALK TV</channel>"
+    },
+    "UlkeTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"UlkeTV.tr\" site_id=\"145\">ÜLKE TV</channel>"
+    },
+    "HaberGlobal.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HaberGlobal.tr\" site_id=\"5\">HABER GLOBAL</channel>"
+    },
+    "BloombergHT.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"BloombergHT.tr\" site_id=\"96\">BLOOMBERG HT</channel>"
+    },
+    "HaberturkTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HaberturkTV.tr\" site_id=\"87\">HABERTÜRK</channel>"
+    },
+    "24TV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"24TV.tr\" site_id=\"32\">24</channel>"
+    },
+    "TV100.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TV100.tr\" site_id=\"179\">TV100</channel>"
+    },
+    "KRT.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"KRT.tr\" site_id=\"111\">KRT TV</channel>"
+    },
+    "TVNET.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TVNET.tr\" site_id=\"92\">TVNET</channel>"
+    },
+    "Ekoturk.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Ekoturk.tr\" site_id=\"100\">EKOTÜRK</channel>"
+    },
+    "AkitTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"AkitTV.tr\" site_id=\"13\">AKİT TV</channel>"
+    },
+    "BenguturkTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"BenguturkTV.tr\" site_id=\"47\">BENGÜTÜRK</channel>"
+    },
+    "TGRTHaber.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TGRTHaber.tr\" site_id=\"34\">TGRT HABER</channel>"
+    },
+    "TurkHaberTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4335\">TURKHABER</channel>"
+    },
+    "FlashTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"2979\">FLASH TV</channel>"
+    },
+    "Number1TV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1TV.tr\" site_id=\"204\">NUMBER1 TV</channel>"
+    },
+    "MilyonTV.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"MilyonTV.tr\" site_id=\"121#5c9889b0cfef0b4cffc475b4\">Milyon</channel>"
+    },
+    "TatlisesTV.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TatlisesTV.tr\" site_id=\"103#644a774dcfef0b02d28abccb\">Tatlıses Tv</channel>"
+    },
+    "Number1Ask.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1Ask.tr\" site_id=\"33\">NR1 AŞK</channel>"
+    },
+    "Number1Damar.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1Damar.tr\" site_id=\"41\">NR1 DAMAR</channel>"
+    },
+    "Number1Dance.tr": {
+
+    },
+    "TRTMuzik.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTMuzik.tr\" site_id=\"159\">TRT MÜZİK</channel>"
+    },
+    "DreamTurk.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"DreamTurk.tr\" site_id=\"153\">DREAM TÜRK</channel>"
+    },
+    "PowerTurkTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTurkTV.tr\" site_id=\"202\">POWER TURK</channel>"
+    },
+    "PowerTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTV.tr\" site_id=\"172\">POWER TV</channel>"
+    },
+    "PowerTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTV.tr\" site_id=\"172\">POWER TV</channel>"
+    },
+    "PowerTurkTaptaze.tr": {
+
+    },
+    "PowerDance.tr": {
+
+    },
+    "PowerLove.tr": {
+
+    },
+    "PowerTurkAkustik.tr": {
+
+    },
+    "PowerTurkSlow.tr": {
+
+    }
+  },
+  "custom": {
+    "ATV.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"ATV.tr\" tvg-name=\"ATV\" tvg-logo=\"https://i.ibb.co/DwFJ0vn/atv.png\" group-title=\"ULUSAL\", ATV\nhttp://hw1.jemtv.com/app/ATVHD/playlist.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"ATV.tr\" site_id=\"124\">ATV</channel>"
+    },
+    "ATVAvrupa.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"ATVAvrupa.tr\" tvg-name=\"ATV Avrupa\" tvg-logo=\"https://i.ibb.co/Mg8kV1j/atv-avrupa.png\" group-title=\"ULUSAL\", ATV AVRUPA\nhttps://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8",
+      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"ATVAvrupa.tr\" site_id=\"30\">ATV Avrupa</channel>"
+    },
+    "TV8International.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"TV8International.tr\" tvg-name=\"TV8 Int.\" tvg-logo=\"https://i.ibb.co/ykSLX8Q/tv8-int.png\" group-title=\"ULUSAL\", TV8 INT\nhttps://bozztv.com/inim03/live1/tv8int/playlist.m3u8",
+      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"TV8International.tr\" site_id=\"638\">TV8 Int.</channel>"
+    },
+    "ShowMax.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"ShowMax.tr\" tvg-name=\"Showmax\" tvg-logo=\"https://i.ibb.co/qJnvXJQ/show-max.png\" group-title=\"ULUSAL\", SHOWMAX\nhttps://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8",
+      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"ShowMax.tr\" site_id=\"1297\">Showmax</channel>"
+    },
+    "CartoonNetwork.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"CartoonNetwork.tr\" tvg-name=\"CARTOON NETWORK\" tvg-logo=\"https://i.ibb.co/X5yPXkD/cartoon-network.png\" group-title=\"ULUSAL\", CARTOON NETWORK\nhttps://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"CartoonNetwork.tr\" site_id=\"20\">CARTOON NETWORK</channel>"
+    },
+    "Cartoonito.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"CartoonNetwork.tr\" tvg-name=\"CARTOONITO\" tvg-logo=\"https://i.ibb.co/RvVF9hQ/cartoonito.png\" group-title=\"ULUSAL\", CARTOONITO\nhttps://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4279\">CARTOONITO</channel>"
+    },
+    "MinikaGo.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"MinikaGo.tr\" tvg-name=\"MİNİKA GO\" tvg-logo=\"https://i.ibb.co/2ZwxWr0/minika-go.png\" group-title=\"ULUSAL\", MINIKA GO\nhttps://trn10.tulix.tv/gt-minikago/index.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"MinikaGo.tr\" site_id=\"7\">MİNİKA GO</channel>"
+    },
+    "MinikaCocuk.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"MinikaCocuk.tr\" tvg-name=\"MİNİKA ÇOCUK\" tvg-logo=\"https://i.ibb.co/S794c6W/minika-cocuk.png\" group-title=\"ULUSAL\", MINIKA COCUK\nhttps://trn10.tulix.tv/gt-minikacocuk/index.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"MinikaCocuk.tr\" site_id=\"102\">MİNİKA ÇOCUK</channel>"
+    },
+    "A2TV.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"A2TV.tr\" tvg-name=\"A2\" tvg-logo=\"https://i.ibb.co/7WTsG83/a2.png\" group-title=\"ULUSAL\", A2\nhttp://50.7.218.122:8080/a2hd/index.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"A2TV.tr\" site_id=\"2\">A2</channel>"
+    },
+    "blutvplay1.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"\" tvg-name=\"BluTV Play 1\" tvg-logo=\"https://i.ibb.co/G9rWyrV/blutv.png\" group-title=\"SINEMA\", BLUTV PLAY 1\nhttps://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4300\">BluTV Play 1</channel>"
+    },
+    "blutvplay2.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"\" tvg-name=\"BluTV Play 2\" tvg-logo=\"https://i.ibb.co/G9rWyrV/blutv.png\" group-title=\"SINEMA\", BLUTV PLAY 2\nhttps://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4302\">BluTV Play 2</channel>"
+    },
+    "beINSportsHaber.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"beINSportsHaber.tr\" tvg-name=\"beIN SPORTS HABER\" tvg-logo=\"https://i.ibb.co/GdkQ5mY/bein-sports-haber.png\" group-title=\"SPOR\", beIN SPORTS HABER\nhttps://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8",
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSportsHaber.tr\" site_id=\"85\">beIN SPORTS HABER</channel>"
     },
     "TV85.tr": {
-      "epg": {
-        "channel": "TV 8,5",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "55"
-      },
-      "group": "Eğlence"
+      "m3u": "#EXTINF:-1 tvg-id=\"TV85.tr\" tvg-name=\"TV8,5\" tvg-logo=\"https://i.ibb.co/6PRYHdW/tv85.png\" group-title=\"SPOR\", TV 8.5\nhttps://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TV85.tr\" site_id=\"188\">TV8,5</channel>"
+    },
+    "ASpor.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"ASpor.tr\" site_id=\"3\">A SPOR</channel>"
+    },
+    "Eurosport1.fr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Eurosport1.fr\" site_id=\"77\">EUROSPORT 1</channel>"
+    },
+    "Eurosport2.fr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Eurosport2.fr\" site_id=\"106\">EUROSPORT 2</channel>"
+    },
+    "FBTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"FBTV.tr\" site_id=\"148\">FB TV</channel>"
+    },
+    "TJKTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TJKTV.tr\" site_id=\"15\">TJK TV</channel>"
+    },
+    "TAYTV.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TAYTV.tr\" site_id=\"71#59dca4d8cfef0b4d80a47b7a\">TAY TV</channel>"
+    },
+    "DMAX.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"DMAX.tr\" site_id=\"180\">DMAX</channel>"
+    },
+    "TLC.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TLC.tr\" site_id=\"174\">TLC</channel>"
+    },
+    "DiscoveryChannel.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"DiscoveryChannel.tr\" site_id=\"8\">DISCOVERY CHANNEL</channel>"
+    },
+    "InvestigationDiscoveryEurope.us": {
+      "epg": "<channel site=\"turksatkablo.com.tr\" lang=\"tr\" xmltv_id=\"InvestigationDiscoveryEurope.us\" site_id=\"1443\">ID</channel>"
+    },
+    "NationalGeographic.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"NationalGeographic.tr\" site_id=\"2799\">NATIONAL GEOGRAPHIC</channel>"
+    },
+    "NationalGeographicWild.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"NationalGeographicWild.tr\" site_id=\"139\">NATIONAL GEOGRAPHIC WILD</channel>"
+    },
+    "AHaber.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"AHaber.tr\" site_id=\"160\">A HABER</channel>"
+    },
+    "APara.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"APara.tr\" site_id=\"79\">A PARA</channel>"
+    },
+    "SZC.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4294\">SÖZCÜ TV</channel>"
+    },
+    "Tele1.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Tele1.tr\" site_id=\"189\">TELE1</channel>"
+    },
+    "beINSports1.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports1.tr\" site_id=\"77\">beIN SPORTS 1</channel>"
+    },
+    "beINSports2.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports2.tr\" site_id=\"78\">beIN SPORTS 2</channel>"
+    },
+    "beINSports3.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports3.tr\" site_id=\"79\">beIN SPORTS 3</channel>"
+    },
+    "beINSports4.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports4.tr\" site_id=\"80\">beIN SPORTS 4</channel>"
+    },
+    "beINSports5.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports5.tr\" site_id=\"81\">beIN SPORTS 5</channel>"
+    },
+    "beINSportsMax1.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSportsMax1.tr\" site_id=\"82\">beIN SPORTS MAX HD 1</channel>"
+    },
+    "beINSportsMax2.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSportsMax2.tr\" site_id=\"83\">beIN SPORTS MAX HD 2</channel>"
+    },
+    "SSport.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SSport.tr\" site_id=\"11\">S SPORT</channel>"
+    },
+    "SSport2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SSport2.tr\" site_id=\"170\">S SPORT 2</channel>"
+    },
+    "SporSmart.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"SporSmart.tr\" site_id=\"74#58d29bb0eefad3db9c60628a\">Spor Smart</channel>"
+    },
+    "SporSmart2.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"SporSmart2.tr\" site_id=\"79#5fcb6bd2cfef0b15931fcdf8\">SPOR SMART 2</channel>"
+    },
+    "NBATV.us": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"NBATV.us\" site_id=\"18\">NBA TV</channel>"
+    },
+    "CBCSportHD.az": {
+      "epg": "<channel site=\"tv.mail.ru\" lang=\"ru\" xmltv_id=\"CBCSportHD.az\" site_id=\"3021\">CBC Sport HD</channel>"
+    },
+    "IdmanTV.az": {
+      "epg": "<channel site=\"tv.mail.ru\" lang=\"az\" xmltv_id=\"IdmanTV.az\" site_id=\"3122\">Idman</channel>"
+    },
+    "EDGEsport.uk": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"en\" xmltv_id=\"EDGEsport.uk\" site_id=\"137\">EDGE SPORT</channel>"
+    },
+    "DisneyJunior.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"149\">DISNEY JUNIOR</channel>"
+    },
+    "CocukSmart.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"CocukSmart.tr\" site_id=\"110#58d29bb0eefad3db9c6062b5\">Çocuk Smart</channel>"
+    },
+    "Nickelodeon.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"Nickelodeon.tr\" site_id=\"172\">Nickelodeon</channel>"
+    },
+    "CBeebies.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"CBeebies.tr\" site_id=\"161\">CBEEBIES HD</channel>"
+    },
+    "TRT4K.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRT4K.tr\" site_id=\"174#59dcbee1cfef0b4d80a49650\">TRT 4K</channel>"
+    },
+    "SinemaTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaTV.tr\" site_id=\"166\">SİNEMA TV</channel>"
+    },
+    "Sinema2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Sinema2.tr\" site_id=\"199\">SİNEMA TV 2</channel>"
+    },
+    "SinemaAksiyon.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaAksiyon.tr\" site_id=\"129\">SİNEMA TV AKSİYON</channel>"
+    },
+    "SinemaAksiyon2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaAksiyon2.tr\" site_id=\"196\">SİNEMA AKSİYON 2</channel>"
+    },
+    "Sinema1001.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Sinema1001.tr\" site_id=\"181\">SİNEMA TV 1001</channel>"
+    },
+    "Sinema1002.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Sinema1002.tr\" site_id=\"190\">SİNEMA 1002</channel>"
+    },
+    "SinemaKomedi.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaKomedi.tr\" site_id=\"154\">SİNEMA KOMEDİ</channel>"
+    },
+    "SinemaKomedi2.tr": {
+      "epg": "<channel site=\"turksatkablo.com.tr\" lang=\"tr\" xmltv_id=\"SinemaKomedi2.tr\" site_id=\"1896\">Sinema Komedi 2</channel>"
+    },
+    "SinemaYerli2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaYerli2.tr\" site_id=\"61\">SİNEMA YERLİ 2</channel>"
+    },
+    "SinemaAile.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaAile.tr\" site_id=\"155\">SİNEMA AİLE</channel>"
+    },
+    "SinemaAile2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaAile2.tr\" site_id=\"182\">SİNEMA AİLE 2</channel>"
+    },
+    "FilmBox.tr": {
+      "epg": "<channel site=\"turksatkablo.com.tr\" lang=\"tr\" xmltv_id=\"FilmBox.tr\" site_id=\"1800\">FilmBOX HD</channel>"
+    },
+    "DiziSmartPremium.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"DiziSmartPremium.tr\" site_id=\"16#58d29bb0eefad3db9c60625a\">Dizi Smart Premium</channel>"
+    },
+    "DiziSmartMax.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"DiziSmartMax.tr\" site_id=\"19#58d29bb0eefad3db9c606278\">Dizi Smart Max</channel>"
+    },
+    "MovieSmartClassic.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"MovieSmartClassic.tr\" site_id=\"14#58d29bb0eefad3db9c60629a\">MovieSmart Classic</channel>"
+    },
+    "MovieSmartTurk.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"MovieSmartTurk.tr\" site_id=\"15#58d29bb0eefad3db9c606299\">MovieSmart Türk</channel>"
+    },
+    "BBCEarth.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"BBCEarth.tr\" site_id=\"183\">BBC EARTH HD</channel>"
+    },
+    "beINIZ.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINIZ.tr\" site_id=\"18\">beIN İZ</channel>"
+    },
+    "LoveNature.ca": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"LoveNature.ca\" site_id=\"45\">LOVE NATURE</channel>"
+    },
+    "TarihTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4253\">TARIH TV</channel>"
+    },
+    "TarihTV2.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"63#64edfc67cfef0b02d2c038c5\">Tarih Tv</channel>"
+    },
+    "ViasatHistory.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"ViasatHistory.tr\" site_id=\"44\">VIASAT HISTORY</channel>"
+    },
+    "ViasatExplore.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"ViasatExplore.tr\" site_id=\"59\">VIASAT EXPLORE</channel>"
+    },
+    "HistoryChannel.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"60#61a408d7cfef0b1593ed2812\">History Channel</channel>"
+    },
+    "Yaban.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"Yaban.tr\" site_id=\"189\">Yaban TV</channel>"
+    },
+    "DaVinci.de": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"DaVinci.de\" site_id=\"208\">DA VINCI</channel>"
+    },
+    "beINGurme.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINGurme.tr\" site_id=\"21\">beIN GURME</channel>"
+    },
+    "WomanTV.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"WomanTV.tr\" site_id=\"52#61f934e2cfef0b1593123808\">Woman TV</channel>"
     },
     "UlusalKanal.tr": {
-      "epg": {
-        "channel": "ULUSAL KANAL",
-        "lang": "tr",
-        "site": "turksatkablo.com.tr",
-        "site_id": "50"
-      },
-      "group": "Haber"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"UlusalKanal.tr\" site_id=\"2240\">ULUSAL KANAL</channel>"
+    },
+    "FashionTVEurope.fr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"en\" xmltv_id=\"FashionTVEurope.fr\" site_id=\"110\">Fashion TV HD</channel>"
+    },
+    "FX.us": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"FX.us\" site_id=\"131\">FX</channel>"
+    },
+    "SkySportsF1.uk": {
+      "epg": "<channel site=\"sky.com\" lang=\"en\" xmltv_id=\"SkySportsF1.uk\" site_id=\"1306\">SkySp F1</channel>"
     }
   }
 }
