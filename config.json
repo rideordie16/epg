@@ -1,14 +1,529 @@
 {
   "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
   "whitelisted": {
+    "TRT1.tr": {
+      "epg": {
+		  "channel": "TRT1",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "144"
+		},
+		"group": "Ulusal"
+	},	
+    "KanalD.tr": {
+      "epg": {
+		  "channel": "KANAL D",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "88"
+		},
+		"group": "Ulusal"
+    },
+    "StarTV.tr": {
+      "epg": {
+		  "channel": "STAR TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "89"
+		},
+		"group": "Ulusal"
+    },
+    "ShowTV.tr": {
+      "epg": {
+		  "channel": "SHOW TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "130"
+		},
+		"group": "Ulusal"
+    },
+    "Fox.tr": {
+      "epg": {
+		  "channel": "FOX",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "93"
+		},
+		"group": "Ulusal"
+    },
+    "TV8.tr": {
+      "epg": {
+		  "channel": "TV8",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "134"
+		},
+		"group": "Ulusal"
+    },
+    "EuroD.tr": {
+      "epg": {
+		  "channel": "Euro D",
+		  "lang": "tr",
+		  "site": "tv.blue.ch",
+		  "site_id": "161"
+		},
+		"group": "Ulusal"
+    },
+    "ShowTurk.tr": {
+      "epg": {
+		  "channel": "ShowTürk",
+		  "lang": "tr",
+		  "site": "ziggogo.tv",
+		  "site_id": "NL_000156_020072"
+		},
+		"group": "Ulusal"
+    },
+    "EuroStar.tr": {
+      "epg": {
+		  "channel": "Euro Star",
+		  "lang": "tr",
+		  "site": "tv.blue.ch",
+		  "site_id": "162"
+		},
+		"group": "Ulusal"
+    },
+    "TRT2.tr": {
+      "epg": {
+		  "channel": "TRT 2",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "83"
+		},
+		"group": "Ulusal"
+    },
+    "TRTTurk.tr": {
+      "epg": {
+		  "channel": "TRT TÜRK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "156"
+		},
+		"group": "Ulusal"
+    },
+    "TRTCocuk.tr": {
+      "epg": {
+		  "channel": "TRT ÇOCUK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "99"
+		},
+		"group": "Ulusal"
+    },
+    "Kanal7.tr": {
+      "epg": {
+		  "channel": "KANAL 7",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "90"
+		},
+		"group": "Ulusal"
+    },
+    "Kanal7Avrupa.tr": {
+      "epg": {
+		  "channel": "Kanal 7 Avrupa",
+		  "lang": "tr",
+		  "site": "vivacom.bg",
+		  "site_id": "24#Kanal 7 Avrupa"
+		},
+		"group": "Ulusal"
+    },
+    "BeyazTV.tr": {
+      "epg": {
+		  "channel": "BEYAZ TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "135"
+		},
+		"group": "Ulusal"
+    },
+    "Teve2.tr": {
+      "epg": {
+		  "channel": "TEVE2",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "95"
+		},
+		"group": "Ulusal"
+    },
     "360.tr": {
       "epg": {
-        "channel": "360 HD",
-        "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "29"
-      },
-      "group": "Ulusal"
+		  "channel": "360",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "86"
+		},
+		"group": "Ulusal"
+    },
+    "TV4.tr": {
+      "epg": {
+		  "channel": "TV4",
+		  "lang": "tr",
+		  "site": "dsmart.com.tr",
+		  "site_id": "84#59dca577cfef0b4d80a47b7c"
+		},
+		"group": "Ulusal"
+    },
+    "TGRTEU.tr": {
+      "epg": {
+		  "channel": "TGRT EU",
+		  "lang": "tr",
+		  "site": "tv.blue.ch",
+		  "site_id": "602"
+		},
+		"group": "Ulusal"
+    },
+    "Tivi6.tr": {
+      "epg": {
+		  "channel": "TİVİ 6",
+		  "lang": "tr",
+		  "site": "turksatkablo.com.tr",
+		  "site_id": "3719"
+		},
+		"group": "Ulusal"
+    },
+    "TRTSpor.tr": {
+      "epg": {
+		  "channel": "TRT SPOR",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "31"
+		},
+		"group": "Spor"
+    },
+    "TRTSporYildiz.tr": {
+      "epg": {
+		  "channel": "TRT SPOR YILDIZ",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "205"
+		},
+		"group": "Spor"
+    },
+    "SportsTV.tr": {
+      "epg": {
+		  "channel": "SPORTS TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "173"
+		},
+		"group": "Spor"
+    },
+    "GSTV.tr": {
+      "epg": {
+		  "channel": "GS TV HD",
+		  "lang": "tr",
+		  "site": "digiturk.com.tr",
+		  "site_id": "75"
+		},
+		"group": "Spor"
+    },
+    "TRTBelgesel.tr": {
+      "epg": {
+		  "channel": "TRT BELGESEL",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "21"
+		},
+		"group": "Belgesel"
+    },
+    "TRTAvaz.tr": {
+      "epg": {
+		  "channel": "TRT AVAZ",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "193"
+		},
+		"group": "Belgesel"
+    },
+    "TGRTBelgesel.tr": {
+      "epg": {
+		  "channel": "TGRT Belgesel",
+		  "lang": "tr",
+		  "site": "dsmart.com.tr",
+		  "site_id": "122#59dca751cfef0b4d80a47b88"
+		},
+		"group": "Belgesel"
+    },
+    "TRTHaber.tr": {
+      "epg": {
+		  "channel": "TRT HABER",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "30"
+		},
+		"group": "Haber"
+    },
+    "CNNTurk.tr": {
+      "epg": {
+		  "channel": "CNN TÜRK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "158"
+		},
+		"group": "Haber"
+    },
+    "NTV.tr": {
+      "epg": {
+		  "channel": "NTV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "81"
+		},
+		"group": "Haber"
+    },
+    "HalkTV.tr": {
+      "epg": {
+		  "channel": "HALK TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "91"
+		},
+		"group": "Haber"
+    },
+    "UlkeTV.tr": {
+      "epg": {
+		  "channel": "ÜLKE TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "145"
+		},
+		"group": "Haber"
+    },
+    "HaberGlobal.tr": {
+      "epg": {
+		  "channel": "HABER GLOBAL",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "5"
+		},
+		"group": "Haber"
+    },
+    "BloombergHT.tr": {
+      "epg": {
+		  "channel": "BLOOMBERG HT",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "96"
+		},
+		"group": "Haber"
+    },
+    "HaberturkTV.tr": {
+      "epg": {
+		  "channel": "HABERTÜRK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "87"
+		},
+		"group": "Haber"
+    },
+    "24TV.tr": {
+      "epg": {
+		  "channel": "24",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "32"
+		},
+		"group": "Haber"
+    },
+    "TV100.tr": {
+      "epg": {
+		  "channel": "TV100",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "179"
+		},
+		"group": "Haber"
+    },
+    "KRT.tr": {
+      "epg": {
+		  "channel": "KRT TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "111"
+		},
+		"group": "Haber"
+    },
+    "TVNET.tr": {
+      "epg": {
+		  "channel": "TVNET",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "92"
+		},
+		"group": "Haber"
+    },
+    "Ekoturk.tr": {
+      "epg": {
+		  "channel": "EKOTÜRK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "100"
+		},
+		"group": "Haber"
+    },
+    "AkitTV.tr": {
+      "epg": {
+		  "channel": "AKİT TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "13"
+		},
+		"group": "Haber"
+    },
+    "BenguturkTV.tr": {
+      "epg": {
+		  "channel": "BENGÜTÜRK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "47"
+		},
+		"group": "Haber"
+    },
+    "TGRTHaber.tr": {
+      "epg": {
+		  "channel": "TGRT HABER",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "34"
+		},
+		"group": "Haber"
+    },
+    "TurkHaberTV.tr": {
+      "epg": {
+		  "channel": "TURKHABER",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "4335"
+		},
+		"group": "Haber"
+    },
+    "FlashTV.tr": {
+      "epg": {
+		  "channel": "FLASH TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "2979"
+		},
+		"group": "Haber"
+    },
+    "Number1TV.tr": {
+      "epg": {
+		  "channel": "NUMBER1 TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "204"
+		},
+		"group": "Muzik"
+    },
+    "MilyonTV.tr": {
+      "epg": {
+		  "channel": "Milyon",
+		  "lang": "tr",
+		  "site": "dsmart.com.tr",
+		  "site_id": "121#5c9889b0cfef0b4cffc475b4"
+		},
+		"group": "Muzik"
+    },
+    "TatlisesTV.tr": {
+      "epg": {
+		  "channel": "Tatlıses Tv",
+		  "lang": "tr",
+		  "site": "dsmart.com.tr",
+		  "site_id": "103#644a774dcfef0b02d28abccb"
+		},
+		"group": "Muzik"
+    },
+    "Number1Ask.tr": {
+      "epg": {
+		  "channel": "NR1 AŞK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "33"
+		},
+		"group": "Muzik"
+    },
+    "Number1Damar.tr": {
+      "epg": {
+		  "channel": "NR1 DAMAR",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "41"
+		},
+		"group": "Muzik"
+    },
+    "Number1Dance.tr": {
+
+    },
+    "TRTMuzik.tr": {
+      "epg": {
+		  "channel": "TRT MÜZİK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "159"
+		},
+		"group": "Muzik"
+    },
+    "DreamTurk.tr": {
+      "epg": {
+		  "channel": "DREAM TÜRK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "153"
+		},
+		"group": "Muzik"
+    },
+    "PowerTurkTV.tr": {
+      "epg": {
+		  "channel": "POWER TURK",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "202"
+		},
+		"group": "Muzik"
+    },
+    "PowerTV.tr": {
+      "epg": {
+		  "channel": "POWER TV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "172"
+		},
+		"group": "Muzik"
+    },
+    "PowerTurkTaptaze.tr": {
+
+    },
+    "PowerDance.tr": {
+
+    },
+    "PowerLove.tr": {
+
+    },
+    "PowerTurkAkustik.tr": {
+
+    },
+    "PowerTurkSlow.tr": {
+
+    }
+  },
+  "custom": {
+    "ATV.tr": {
+      "epg": {
+		  "channel": "ATV",
+		  "lang": "tr",
+		  "site": "tvplus.com.tr",
+		  "site_id": "124"
+		},
+		"group": "Ulusal"
+    },
+    "ATVAvrupa.tr": {
+      "epg": {
+		  "channel": "ATV Avrupa",
+		  "lang": "tr",
+		  "site": "tv.blue.ch",
+		  "site_id": "30"
+		},
+		"group": "Ulusal"
     }
   }
 }
