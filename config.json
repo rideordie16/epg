@@ -3,11 +3,12 @@
   "whitelisted": {
     "TRT1.tr": {
       "epg": {
-		  "channel": "TRT1",
-		  "lang": "tr",
-		  "site": "tvplus.com.tr",
-		  "site_id": "144"
-		},
-		"group": "Ulusal"
-	},
-},
+        "channel": "TRT 1",
+        "lang": "tr",
+        "site": "digiturk.com.tr",
+        "site_id": "23"
+      },
+      "group": "Haber"
+    },
+  }
+}
