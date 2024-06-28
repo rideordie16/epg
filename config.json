@@ -7,19 +7,15 @@
             "lang": "tr",
             "site": "digiturk.com.tr",
             "site_id": "23"
-          },
-          "group": "Ulusal"
-      }
-    },
-    "custom": {
+          }
+      },
       "KanalD.tr": {
         "epg": {
             "channel": "Kanal D HD",
             "lang": "tr",
             "site": "digiturk.com.tr",
             "site_id": "24"
-          },
-          "group": "Ulusal"
+          }
       }
     }
   }
