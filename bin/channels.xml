@@ -42,4 +42,14 @@
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="Ekoturk.tr" site_id="46">EKOTÜRK TV HD</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="AkitTV.tr" site_id="1775">Akit</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="BenguturkTV.tr" site_id="63">BENGÜTÜRK TV</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TGRTHaber.tr" site_id="45">TGRT Haber HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TurkHaberTV.tr" site_id="59">TURKHABER TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="FlashTV.tr" site_id="50">Flash Haber TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="Number1TV.tr" site_id="95">Number1 TV</channel>
+<channel site="dsmart.com.tr" lang="tr" xmltv_id="MilyonTV.tr" site_id="121#5c9889b0cfef0b4cffc475b4">Milyon</channel>
+<channel site="dsmart.com.tr" lang="tr" xmltv_id="TatlisesTV.tr" site_id="103#644a774dcfef0b02d28abccb">Tatlıses Tv</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTMuzik.tr" site_id="104">TRT Müzik</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="DreamTurk.tr" site_id="2107">DREAM TURK TV HD</channel>
+<channel site="dsmart.com.tr" lang="tr" xmltv_id="PowerTurkTV.tr" site_id="107#58d29bb0eefad3db9c6062ac">POWER TURK</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="PowerTV.tr" site_id="100">Power TV</channel>
 </channels>
