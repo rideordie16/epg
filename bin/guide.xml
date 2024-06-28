@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240628">
+<channel id="KanalD.tr"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/9o1atM6.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TRT1.tr"><display-name>TRT 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<programme start="20240627201500 +0000" stop="20240627224500 +0000" channel="KanalD.tr"><title lang="tr">Hava Saldırısı</title></programme>
+<programme start="20240627224500 +0000" stop="20240628004500 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
+<programme start="20240628004500 +0000" stop="20240628030000 +0000" channel="KanalD.tr"><title lang="tr">Tatlı İntikam</title></programme>
+<programme start="20240628030000 +0000" stop="20240628060000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240628060000 +0000" stop="20240628080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
+<programme start="20240628080000 +0000" stop="20240628100000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
+<programme start="20240628100000 +0000" stop="20240628130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
+<programme start="20240628130000 +0000" stop="20240628160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20240628160000 +0000" stop="20240628170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240628170000 +0000" stop="20240628211500 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20240628170000 +0000" stop="20240628211500 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20240628211500 +0000" stop="20240628234500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240628234500 +0000" stop="20240629020000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
+<programme start="20240629020000 +0000" stop="20240629040000 +0000" channel="KanalD.tr"><title lang="tr">Tatlı İntikam</title></programme>
+<programme start="20240629040000 +0000" stop="20240629053000 +0000" channel="KanalD.tr"><title lang="tr">Afili Aşk</title></programme>
+<programme start="20240629053000 +0000" stop="20240629064500 +0000" channel="KanalD.tr"><title lang="tr">Konuştukça</title></programme>
+<programme start="20240629064500 +0000" stop="20240629144500 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
+<programme start="20240629144500 +0000" stop="20240629160000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
+<programme start="20240629160000 +0000" stop="20240630000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240627170000 +0000" stop="20240627211500 +0000" channel="TRT1.tr"><title lang="tr">Sen Türkülerini Söyle</title></programme>
 <programme start="20240627211500 +0000" stop="20240627230500 +0000" channel="TRT1.tr"><title lang="tr">Büyük Gözler</title></programme>
 <programme start="20240627230500 +0000" stop="20240628014500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
