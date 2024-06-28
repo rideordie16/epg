@@ -96,6 +96,86 @@
             "site": "digiturk.com.tr",
             "site_id": "160"
           }
+      },
+      "Kanal7.tr": {
+        "epg": {
+            "channel": "KANAL 7 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "34"
+          }
+      },
+      "Kanal7Avrupa.tr": {
+        "epg": {
+            "channel": "Kanal 7 Avrupa",
+            "lang": "tr",
+            "site": "vivacom.bg",
+            "site_id": "24#Kanal 7 Avrupa"
+          }
+      },
+      "BeyazTV.tr": {
+        "epg": {
+            "channel": "BEYAZ TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "36"
+          }
+      },
+      "Teve2.tr": {
+        "epg": {
+            "channel": "Teve2 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "54"
+          }
+      },
+      "360.tr": {
+        "epg": {
+            "channel": "360 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "29"
+          }
+      },
+      "TV4.tr": {
+        "epg": {
+            "channel": "TV 4",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "3688"
+          }
+      },
+      "TGRTEU.tr": {
+        "epg": {
+            "channel": "TGRT EU",
+            "lang": "tr",
+            "site": "tv.blue.ch",
+            "site_id": "602"
+          }
+      },
+      "Tivi6.tr": {
+        "epg": {
+            "channel": "TİVİ 6",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "3719"
+          }
+      },
+      "TRTSpor.tr": {
+        "epg": {
+            "channel": "TRT SPOR HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "86"
+          }
+      },
+      "TRTSporYildiz.tr": {
+        "epg": {
+            "channel": "TRT SPOR YILDIZ",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "87"
+          }
       }
     }
   }
