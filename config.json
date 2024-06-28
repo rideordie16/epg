@@ -433,15 +433,6 @@
           },
           "group": "Muzik"
       },
-      "Number1Ask.tr": {
-        
-      },
-      "Number1Damar.tr": {
-       
-      },
-      "Number1Dance.tr": {
-  
-      },
       "TRTMuzik.tr": {
         "epg": {
             "channel": "TRT Müzik",
@@ -477,21 +468,6 @@
             "site_id": "100"
           },
           "group": "Muzik"
-      },
-      "PowerTurkTaptaze.tr": {
-  
-      },
-      "PowerDance.tr": {
-  
-      },
-      "PowerLove.tr": {
-  
-      },
-      "PowerTurkAkustik.tr": {
-  
-      },
-      "PowerTurkSlow.tr": {
-  
       }
     }
   }
