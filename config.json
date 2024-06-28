@@ -256,6 +256,86 @@
             "site": "digiturk.com.tr",
             "site_id": "38"
           }
+      },
+      "HaberGlobal.tr": {
+        "epg": {
+            "channel": "HABER GLOBAL HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "47"
+          }
+      },
+      "BloombergHT.tr": {
+        "epg": {
+            "channel": "Bloomberg TV<",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "31"
+          }
+      },
+      "HaberturkTV.tr": {
+        "epg": {
+            "channel": "HABERTURK HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "44"
+          }
+      },
+      "24TV.tr": {
+        "epg": {
+            "channel": "24",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "105"
+          }
+      },
+      "TV100.tr": {
+        "epg": {
+            "channel": "TV 100 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "37"
+          }
+      },
+      "KRT.tr": {
+        "epg": {
+            "channel": "KRT TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "62"
+          }
+      },
+      "TVNET.tr": {
+        "epg": {
+            "channel": "TVNET HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "39"
+          }
+      },
+      "Ekoturk.tr": {
+        "epg": {
+            "channel": "EKOTÜRK TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "46"
+          }
+      },
+      "AkitTV.tr": {
+        "epg": {
+            "channel": "Akit",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1775"
+          }
+      },
+      "BenguturkTV.tr": {
+        "epg": {
+            "channel": "BENGÜTÜRK TV",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "63"
+          }
       }
     }
   }
