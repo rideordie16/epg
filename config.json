@@ -16,6 +16,86 @@
             "site": "digiturk.com.tr",
             "site_id": "24"
           }
-      }
+      },
+      "StarTV.tr": {
+        "epg": {
+            "channel": "Star TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "27"
+          }
+      },
+      "ShowTV.tr": {
+        "epg": {
+            "channel": "Show TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "22"
+          }
+      },
+      "Fox.tr": {
+        "epg": {
+            "channel": "FOX HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "26"
+          }
+      },
+      "TV8.tr": {
+        "epg": {
+            "channel": "TV8 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "28"
+          }
+      },
+      "EuroD.tr": {
+        "epg": {
+            "channel": "Euro D",
+            "lang": "tr",
+            "site": "tv.blue.ch",
+            "site_id": "161"
+          }
+      },
+      "ShowTurk.tr": {
+        "epg": {
+            "channel": "ShowTürk",
+            "lang": "tr",
+            "site": "ziggogo.tv",
+            "site_id": "NL_000156_020072"
+          }
+      },
+      "EuroStar.tr": {
+        "epg": {
+            "channel": "Euro Star",
+            "lang": "tr",
+            "site": "tv.blue.ch",
+            "site_id": "162"
+          }
+      },
+      "TRT2.tr": {
+        "epg": {
+            "channel": "TRT 2 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "66"
+          }
+      },
+      "TRTTurk.tr": {
+        "epg": {
+            "channel": "TRT TURK",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "61"
+          }
+      },
+      "TRTCocuk.tr": {
+        "epg": {
+            "channel": "TRT Çocuk",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "160"
+          }
+      },
     }
   }
