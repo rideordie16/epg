@@ -32,4 +32,14 @@
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="NTV.tr" site_id="41">NTV HD</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="HalkTV.tr" site_id="53">Halk TV</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="UlkeTV.tr" site_id="38">Ülke TV HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="HaberGlobal.tr" site_id="47">HABER GLOBAL HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="BloombergHT.tr" site_id="31">Bloomberg TV</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="HaberturkTV.tr" site_id="44">HABERTURK HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="24TV.tr" site_id="105">24</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TV100.tr" site_id="37">TV 100 HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="KRT.tr" site_id="62">KRT TV HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TVNET.tr" site_id="39">TVNET HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="Ekoturk.tr" site_id="46">EKOTÜRK TV HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="AkitTV.tr" site_id="1775">Akit</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="BenguturkTV.tr" site_id="63">BENGÜTÜRK TV</channel>
 </channels>
