@@ -440,6 +440,635 @@
       },
       "PowerTurkSlow.tr": {
   
+      },
+      "ATV.tr": {
+        "epg": {
+            "channel": "ATV",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "25"
+          }
+      },
+      "ATVAvrupa.tr": {
+        "epg": {
+            "channel": "ATV Avrupa",
+            "lang": "tr",
+            "site": "tv.blue.ch",
+            "site_id": "30"
+          }
+      },
+      "TV8International.tr": {
+        "epg": {
+            "channel": "TV8 Int.",
+            "lang": "tr",
+            "site": "tv.blue.ch",
+            "site_id": "638"
+          }
+      },
+      "ShowMax.tr": {
+        "epg": {
+            "channel": "Showmax",
+            "lang": "tr",
+            "site": "tv.blue.ch",
+            "site_id": "1297"
+          }
+      },
+      "CartoonNetwork.tr": {
+        "epg": {
+            "channel": "Cartoon Network",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "169"
+          }
+      },
+      "Cartoonito.tr": {
+        "epg": {
+            "channel": "Cartoonito",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "168"
+          }
+      },
+      "MinikaGo.tr": {
+        "epg": {
+            "channel": "MinikaGO",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "170"
+          }
+      },
+      "MinikaCocuk.tr": {
+        "epg": {
+            "channel": "Minika Çocuk",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "396"
+          }
+      },
+      "A2TV.tr": {
+        "epg": {
+            "channel": "A2 HD",
+            "lang": "tr",
+            "site": "tvplus.com.tr",
+            "site_id": "35"
+          }
+      },
+      "blutvplay1.tr": {
+        
+      },
+      "blutvplay2.tr": {
+        
+      },
+      "beINSportsHaber.tr": {
+        "epg": {
+            "channel": "beIN SPORTS HABER",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "85"
+          }
+      },
+      "TV85.tr": {
+        "epg": {
+            "channel": "TV 8,5",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "55"
+          }
+      },
+      "ASpor.tr": {
+        "epg": {
+            "channel": "A Spor HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "88"
+          },
+          "group": "Spor"
+      },
+      "Eurosport1.fr": {
+        "epg": {
+            "channel": "Eurosport 1 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "71"
+          }
+      },
+      "Eurosport2.fr": {
+        "epg": {
+            "channel": "Eurosport 2 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "72"
+          }
+      },
+      "FBTV.tr": {
+        "epg": {
+            "channel": "FB TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "76"
+          }
+      },
+      "TJKTV.tr": {
+        "epg": {
+            "channel": "TJK TV",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "89"
+          }
+      },
+      "TAYTV.tr": {
+        "epg": {
+            "channel": "TAY TV",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "71#59dca4d8cfef0b4d80a47b7a"
+          }
+      },
+      "DMAX.tr": {
+        "epg": {
+            "channel": "DMAX HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "49"
+          }
+      },
+      "TLC.tr": {
+        "epg": {
+            "channel": "TLC HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "30"
+          }
+      },
+      "DiscoveryChannel.tr": {
+        "epg": {
+            "channel": "Discovery Channel HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "191"
+          }
+      },
+      "InvestigationDiscoveryEurope.us": {
+        "epg": {
+            "channel": "ID",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1443"
+          }
+      },
+      "NationalGeographic.tr": {
+        "epg": {
+            "channel": "National Geographic HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "181"
+          }
+      },
+      "NationalGeographicWild.tr": {
+        "epg": {
+            "channel": "Nat Geo Wild HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "185"
+          }
+      },
+      "AHaber.tr": {
+        "epg": {
+            "channel": "A Haber HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "32"
+          }
+      },
+      "APara.tr": {
+        "epg": {
+            "channel": "A Para HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "43"
+          }
+      },
+      "SZC.tr": {
+        "epg": {
+            "channel": "SÖZCÜ TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "60"
+          }
+      },
+      "Tele1.tr": {
+        "epg": {
+            "channel": "TELE 1 HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "48"
+          }
+      },
+      "beINSports1.tr": {
+        "epg": {
+            "channel": "beIN SPORTS 1",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "77"
+          }
+      },
+      "beINSports2.tr": {
+        "epg": {
+            "channel": "beIN SPORTS 2",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "78"
+          }
+      },
+      "beINSports3.tr": {
+        "epg": {
+            "channel": "beIN SPORTS 3",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "79"
+          }
+      },
+      "beINSports4.tr": {
+        "epg": {
+            "channel": "beIN SPORTS 4",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "80"
+          }
+      },
+      "beINSports5.tr": {
+        "epg": {
+            "channel": "beIN SPORTS 5",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "81"
+          }
+      },
+      "beINSportsMax1.tr": {
+        "epg": {
+            "channel": "beIN SPORTS MAX HD 1",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "82"
+          }
+      },
+      "beINSportsMax2.tr": {
+        "epg": {
+            "channel": "beIN SPORTS MAX HD 2",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "83"
+          }
+      },
+      "SSport.tr": {
+        "epg": {
+            "channel": "S Sport",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1853"
+          }
+      },
+      "SSport2.tr": {
+        "epg": {
+            "channel": "S Sport2",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1959"
+          }
+      },
+      "SporSmart.tr": {
+        "epg": {
+            "channel": "Spor Smart",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "74#58d29bb0eefad3db9c60628a"
+          }
+      },
+      "SporSmart2.tr": {
+        "epg": {
+            "channel": "SPOR SMART 2",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "79#5fcb6bd2cfef0b15931fcdf8"
+          }
+      },
+      "NBATV.us": {
+        "epg": {
+            "channel": "NBA TV",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1828"
+          }
+      },
+      "CBCSportHD.az": {
+        "epg": {
+            "channel": "CBC Sport HD",
+            "lang": "tr",
+            "site": "tv.mail.ru",
+            "site_id": "3021"
+          }
+      },
+      "IdmanTV.az": {
+        "epg": {
+            "channel": "Idman",
+            "lang": "tr",
+            "site": "tv.mail.ru",
+            "site_id": "3122"
+          }
+      },
+      "EDGEsport.uk": {
+        "epg": {
+            "channel": "EDGEsport",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1854"
+          }
+      },
+      "DisneyJunior.tr": {
+        "epg": {
+            "channel": "DISNEY JUNIOR",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "333"
+          }
+      },
+      "CocukSmart.tr": {
+        "epg": {
+            "channel": "Çocuk Smart",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "110#58d29bb0eefad3db9c6062b5"
+          }
+      },
+      "Nickelodeon.tr": {
+        "epg": {
+            "channel": "Nickelodeon",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "172"
+          }
+      },
+      "CBeebies.tr": {
+        "epg": {
+            "channel": "CBEEBIES HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "161"
+          }
+      },
+      "TRT4K.tr": {
+        "epg": {
+            "channel": "TRT 4K",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "174#59dcbee1cfef0b4d80a49650"
+          }
+      },
+      "SinemaTV.tr": {
+        "epg": {
+            "channel": "Sinema TV",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "283"
+          }
+      },
+      "Sinema2.tr": {
+        "epg": {
+            "channel": "Sinema 2",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "284"
+          }
+      },
+      "SinemaAksiyon.tr": {
+        "epg": {
+            "channel": "Sinema Aksiyon",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "325"
+          }
+      },
+      "SinemaAksiyon2.tr": {
+        "epg": {
+            "channel": "Sinema Aksiyon 2",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1895"
+          }
+      },
+      "Sinema1001.tr": {
+        "epg": {
+            "channel": "Sinema 1001",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "327"
+          }
+      },
+      "Sinema1002.tr": {
+        "epg": {
+            "channel": "Sinema 1002",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1928"
+          }
+      },
+      "SinemaKomedi.tr": {
+        "epg": {
+            "channel": "Sinema Komedi",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1421"
+          }
+      },
+      "SinemaKomedi2.tr": {
+        "epg": {
+            "channel": "Sinema Komedi 2",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1896"
+          }
+      },
+      "SinemaYerli2.tr": {
+        "epg": {
+            "channel": "Sinema Yerli 2",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1930"
+          }
+      },
+      "SinemaAile.tr": {
+        "epg": {
+            "channel": "Sinema Aile",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "480"
+          }
+      },
+      "SinemaAile2.tr": {
+        "epg": {
+            "channel": "Sinema Aile 2",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1897"
+          }
+      },
+      "FilmBox.tr": {
+        "epg": {
+            "channel": "FilmBOX HD",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "1800"
+          }
+      },
+      "DiziSmartPremium.tr": {
+        "epg": {
+            "channel": "Dizi Smart Premium",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "16#58d29bb0eefad3db9c60625a"
+          }
+      },
+      "DiziSmartMax.tr": {
+        "epg": {
+            "channel": "Dizi Smart Max",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "19#58d29bb0eefad3db9c606278"
+          }
+      },
+      "MovieSmartClassic.tr": {
+        "epg": {
+            "channel": "MovieSmart Classic",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "14#58d29bb0eefad3db9c60629a"
+          }
+      },
+      "MovieSmartTurk.tr": {
+        "epg": {
+            "channel": "MovieSmart Türk",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "15#58d29bb0eefad3db9c606299"
+          }
+      },
+      "BBCEarth.tr": {
+        "epg": {
+            "channel": "BBC EARTH HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "183"
+          }
+      },
+      "beINIZ.tr": {
+        "epg": {
+            "channel": "beIN İZ",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "18"
+          }
+      },
+      "LoveNature.ca": {
+        "epg": {
+            "channel": "Love Nature",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "70#5dfc9faacfef0b201d2246b5"
+          }
+      },
+      "TarihTV.tr": {
+        "epg": {
+            "channel": "Tarih Tv",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "3735"
+          }
+      },
+      "TarihTV2.tr": {
+
+      },
+      "ViasatHistory.tr": {
+        "epg": {
+            "channel": "Viasat History",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "56#58d29bb0eefad3db9c6062bd"
+          }
+      },
+      "ViasatExplore.tr": {
+        
+      },
+      "HistoryChannel.tr": {
+        "epg": {
+            "channel": "History Channel",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "60#61a408d7cfef0b1593ed2812"
+          }
+      },
+      "Yaban.tr": {
+        "epg": {
+            "channel": "Yaban TV",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "189"
+          }
+      },
+      "DaVinci.de": {
+        "epg": {
+            "channel": "Da Vinci",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "164"
+          }
+      },
+      "beINGurme.tr": {
+        "epg": {
+            "channel": "beIN GURME",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "21"
+          }
+      },
+      "WomanTV.tr": {
+        "epg": {
+            "channel": "Woman TV",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "52#61f934e2cfef0b1593123808"
+          }
+      },
+      "UlusalKanal.tr": {
+        "epg": {
+            "channel": "ULUSAL TV",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "52"
+          }
+      },
+      "FashionTVEurope.fr": {
+        "epg": {
+            "channel": "Fashion TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "110"
+          }
+      },
+      "FX.us": {
+        "epg": {
+            "channel": "FX",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "553"
+          }
+      },
+      "SkySportsF1.uk": {
+        "epg": {
+            "channel": "SkySp F1",
+            "lang": "en",
+            "site": "sky.com",
+            "site_id": "1306"
+          }
       }
     }
   }
