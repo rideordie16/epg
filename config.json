@@ -336,6 +336,110 @@
             "site": "digiturk.com.tr",
             "site_id": "63"
           }
+      },
+      "TGRTHaber.tr": {
+        "epg": {
+            "channel": "TGRT Haber HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "45"
+          }
+      },
+      "TurkHaberTV.tr": {
+        "epg": {
+            "channel": "TURKHABER TV",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "59"
+          }
+      },
+      "FlashTV.tr": {
+        "epg": {
+            "channel": "Flash Haber TV",
+            "lang": "tr",
+            "site": "tvplus.com.tr",
+            "site_id": "50"
+          }
+      },
+      "Number1TV.tr": {
+        "epg": {
+            "channel": "Number1 TV",
+            "lang": "tr",
+            "site": "tvplus.com.tr",
+            "site_id": "95"
+          }
+      },
+      "MilyonTV.tr": {
+        "epg": {
+            "channel": "Milyon",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "121#5c9889b0cfef0b4cffc475b4"
+          }
+      },
+      "TatlisesTV.tr": {
+        "epg": {
+            "channel": "Tatlıses Tv",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "103#644a774dcfef0b02d28abccb"
+          }
+      },
+      "Number1Ask.tr": {
+        
+      },
+      "Number1Damar.tr": {
+       
+      },
+      "Number1Dance.tr": {
+  
+      },
+      "TRTMuzik.tr": {
+        "epg": {
+            "channel": "TRT Müzik",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "104"
+          }
+      },
+      "DreamTurk.tr": {
+        "epg": {
+            "channel": "DREAM TURK TV HD",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "2107"
+          }
+      },
+      "PowerTurkTV.tr": {
+        "epg": {
+            "channel": "POWER TURK",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "107#58d29bb0eefad3db9c6062ac"
+          }
+      },
+      "PowerTV.tr": {
+        "epg": {
+            "channel": "Power TV",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "100"
+          }
+      },
+      "PowerTurkTaptaze.tr": {
+  
+      },
+      "PowerDance.tr": {
+  
+      },
+      "PowerLove.tr": {
+  
+      },
+      "PowerTurkAkustik.tr": {
+  
+      },
+      "PowerTurkSlow.tr": {
+  
       }
     }
   }
