@@ -2,4 +2,14 @@
 <channels>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT1.tr" site_id="23">TRT 1 HD</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="KanalD.tr" site_id="24">Kanal D HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="StarTV.tr" site_id="27">Star TV HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="ShowTV.tr" site_id="22">Show TV HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="Fox.tr" site_id="26">FOX HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="28">TV8 HD</channel>
+<channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
+<channel site="ziggogo.tv" lang="tr" xmltv_id="ShowTurk.tr" site_id="NL_000156_020072">ShowTürk</channel>
+<channel site="tv.blue.ch" lang="tr" xmltv_id="EuroStar.tr" site_id="162">Euro Star</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT2.tr" site_id="66">TRT 2 HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="61">TRT TURK</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTCocuk.tr" site_id="160">TRT Çocuk</channel>
 </channels>
