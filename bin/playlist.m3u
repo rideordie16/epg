@@ -23,3 +23,23 @@ https://trt2.blutv.com/blutv_trt2/live.m3u8
 https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="undefined",TRT Çocuk (720p)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="undefined",Kanal 7 (1080p) [Not 24/7]
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="undefined",Kanal 7 Avrupa (1080p) [Not 24/7]
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="undefined",Beyaz TV (720p) [Not 24/7]
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="undefined",Teve2 (1080p)
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="undefined",360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="undefined",TV4 (720p)
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="undefined",TGRT EU (576p)
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="undefined",Tivi 6 (720p)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="undefined",TRT Spor (720p) [Geo-blocked]
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.imgur.com/MJPoj3j.png" group-title="undefined",TRT Spor Yildiz (720p) [Geo-blocked]
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8

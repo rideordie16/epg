@@ -12,4 +12,14 @@
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT2.tr" site_id="66">TRT 2 HD</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="61">TRT TURK</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTCocuk.tr" site_id="160">TRT Çocuk</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="Kanal7.tr" site_id="34">KANAL 7 HD</channel>
+<channel site="vivacom.bg" lang="tr" xmltv_id="Kanal7Avrupa.tr" site_id="24#Kanal 7 Avrupa">Kanal 7 Avrupa</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="36">BEYAZ TV HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="Teve2.tr" site_id="54">Teve2 HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="360.tr" site_id="29">360 HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TV4.tr" site_id="3688">TV 4</channel>
+<channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEU.tr" site_id="602">TGRT EU</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Tivi6.tr" site_id="3719">TİVİ 6</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTSpor.tr" site_id="86">TRT SPOR HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTSporYildiz.tr" site_id="87">TRT SPOR YILDIZ</channel>
 </channels>
