@@ -176,6 +176,86 @@
             "site": "digiturk.com.tr",
             "site_id": "87"
           }
+      },
+      "SportsTV.tr": {
+        "epg": {
+            "channel": "SPORTS TV",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "329"
+          }
+      },
+      "GSTV.tr": {
+        "epg": {
+            "channel": "GS TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "75"
+          }
+      },
+      "TRTBelgesel.tr": {
+        "epg": {
+            "channel": "TRT Belgesel HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "190"
+          }
+      },
+      "TRTAvaz.tr": {
+        "epg": {
+            "channel": "TRT AVAZ",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "57"
+          }
+      },
+      "TGRTBelgesel.tr": {
+        "epg": {
+            "channel": "TGRT Belgesel",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "122#59dca751cfef0b4d80a47b88"
+          }
+      },
+      "TRTHaber.tr": {
+        "epg": {
+            "channel": "TRT Haber HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "33"
+          }
+      },
+      "CNNTurk.tr": {
+        "epg": {
+            "channel": "CNN TÜRK HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "42"
+          }
+      },
+      "NTV.tr": {
+        "epg": {
+            "channel": "NTV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "41"
+          }
+      },
+      "HalkTV.tr": {
+        "epg": {
+            "channel": "Halk TV",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "53"
+          }
+      },
+      "UlkeTV.tr": {
+        "epg": {
+            "channel": "Ülke TV HD",
+            "lang": "tr",
+            "site": "digiturk.com.tr",
+            "site_id": "38"
+          }
       }
     }
   }
