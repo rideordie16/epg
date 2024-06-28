@@ -1,498 +1,6 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "TRT1.tr": {
-        "epg": {
-            "channel": "TRT 1 HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "23"
-          },
-          "group": "Ulusal"
-      },
-      "KanalD.tr": {
-        "epg": {
-            "channel": "Kanal D HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "24"
-          },
-          "group": "Ulusal"
-      },
-      "StarTV.tr": {
-        "epg": {
-            "channel": "Star TV HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "27"
-          },
-          "group": "Ulusal"
-      },
-      "ShowTV.tr": {
-        "epg": {
-            "channel": "Show TV HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "22"
-          },
-          "group": "Ulusal"
-      },
-      "Fox.tr": {
-        "epg": {
-            "channel": "FOX HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "26"
-          },
-          "group": "Ulusal"
-      },
-      "TV8.tr": {
-        "epg": {
-            "channel": "TV8 HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "28"
-          },
-          "group": "Ulusal"
-      },
-      "EuroD.tr": {
-        "epg": {
-            "channel": "Euro D",
-            "lang": "tr",
-            "site": "tv.blue.ch",
-            "site_id": "161"
-          },
-          "group": "Ulusal"
-      },
-      "ShowTurk.tr": {
-        "epg": {
-            "channel": "ShowTürk",
-            "lang": "tr",
-            "site": "ziggogo.tv",
-            "site_id": "NL_000156_020072"
-          },
-          "group": "Ulusal"
-      },
-      "EuroStar.tr": {
-        "epg": {
-            "channel": "Euro Star",
-            "lang": "tr",
-            "site": "tv.blue.ch",
-            "site_id": "162"
-          },
-          "group": "Ulusal"
-      },
-      "TRT2.tr": {
-        "epg": {
-            "channel": "TRT 2 HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "66"
-          },
-          "group": "Ulusal"
-      },
-      "TRTTurk.tr": {
-        "epg": {
-            "channel": "TRT TURK",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "61"
-          },
-          "group": "Ulusal"
-      },
-      "TRTCocuk.tr": {
-        "epg": {
-            "channel": "TRT Çocuk",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "160"
-          },
-          "group": "Ulusal"
-      },
-      "Kanal7.tr": {
-        "epg": {
-            "channel": "KANAL 7 HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "34"
-          },
-          "group": "Ulusal"
-      },
-      "Kanal7Avrupa.tr": {
-        "epg": {
-            "channel": "Kanal 7 Avrupa",
-            "lang": "tr",
-            "site": "vivacom.bg",
-            "site_id": "24#Kanal 7 Avrupa"
-          },
-          "group": "Ulusal"
-      },
-      "BeyazTV.tr": {
-        "epg": {
-            "channel": "BEYAZ TV HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "36"
-          },
-          "group": "Ulusal"
-      },
-      "Teve2.tr": {
-        "epg": {
-            "channel": "Teve2 HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "54"
-          },
-          "group": "Ulusal"
-      },
-      "360.tr": {
-        "epg": {
-            "channel": "360 HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "29"
-          },
-          "group": "Ulusal"
-      },
-      "TV4.tr": {
-        "epg": {
-            "channel": "TV 4",
-            "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "3688"
-          },
-          "group": "Ulusal"
-      },
-      "TGRTEU.tr": {
-        "epg": {
-            "channel": "TGRT EU",
-            "lang": "tr",
-            "site": "tv.blue.ch",
-            "site_id": "602"
-          },
-          "group": "Ulusal"
-      },
-      "Tivi6.tr": {
-        "epg": {
-            "channel": "TİVİ 6",
-            "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "3719"
-          },
-          "group": "Ulusal"
-      },
-      "TRTSpor.tr": {
-        "epg": {
-            "channel": "TRT SPOR HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "86"
-          },
-          "group": "Spor"
-      },
-      "TRTSporYildiz.tr": {
-        "epg": {
-            "channel": "TRT SPOR YILDIZ",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "87"
-          },
-          "group": "Spor"
-      },
-      "SportsTV.tr": {
-        "epg": {
-            "channel": "SPORTS TV",
-            "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "329"
-          },
-          "group": "Spor"
-      },
-      "GSTV.tr": {
-        "epg": {
-            "channel": "GS TV HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "75"
-          },
-          "group": "Spor"
-      },
-      "TRTBelgesel.tr": {
-        "epg": {
-            "channel": "TRT Belgesel HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "190"
-          },
-          "group": "Belgesel"
-      },
-      "TRTAvaz.tr": {
-        "epg": {
-            "channel": "TRT AVAZ",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "57"
-          },
-          "group": "Belgesel"
-      },
-      "TGRTBelgesel.tr": {
-        "epg": {
-            "channel": "TGRT Belgesel",
-            "lang": "tr",
-            "site": "dsmart.com.tr",
-            "site_id": "122"
-          },
-          "group": "Belgesel"
-      },
-      "TRTHaber.tr": {
-        "epg": {
-            "channel": "TRT Haber HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "33"
-          },
-          "group": "Haber"
-      },
-      "CNNTurk.tr": {
-        "epg": {
-            "channel": "CNN TÜRK HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "42"
-          },
-          "group": "Haber"
-      },
-      "NTV.tr": {
-        "epg": {
-            "channel": "NTV HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "41"
-          },
-          "group": "Haber"
-      },
-      "HalkTV.tr": {
-        "epg": {
-            "channel": "Halk TV",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "53"
-          },
-          "group": "Haber"
-      },
-      "UlkeTV.tr": {
-        "epg": {
-            "channel": "Ülke TV HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "38"
-          },
-          "group": "Haber"
-      },
-      "HaberGlobal.tr": {
-        "epg": {
-            "channel": "HABER GLOBAL HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "47"
-          },
-          "group": "Haber"
-      },
-      "BloombergHT.tr": {
-        "epg": {
-            "channel": "Bloomberg TV<",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "31"
-          },
-          "group": "Haber"
-      },
-      "HaberturkTV.tr": {
-        "epg": {
-            "channel": "HABERTURK HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "44"
-          },
-          "group": "Haber"
-      },
-      "24TV.tr": {
-        "epg": {
-            "channel": "24",
-            "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "105"
-          },
-          "group": "Haber"
-      },
-      "TV100.tr": {
-        "epg": {
-            "channel": "TV 100 HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "37"
-          },
-          "group": "Haber"
-      },
-      "KRT.tr": {
-        "epg": {
-            "channel": "KRT TV HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "62"
-          },
-          "group": "Haber"
-      },
-      "TVNET.tr": {
-        "epg": {
-            "channel": "TVNET HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "39"
-          },
-          "group": "Haber"
-      },
-      "Ekoturk.tr": {
-        "epg": {
-            "channel": "EKOTÜRK TV HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "46"
-          },
-          "group": "Haber"
-      },
-      "AkitTV.tr": {
-        "epg": {
-            "channel": "Akit",
-            "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "1775"
-          },
-          "group": "Haber"
-      },
-      "BenguturkTV.tr": {
-        "epg": {
-            "channel": "BENGÜTÜRK TV",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "63"
-          },
-          "group": "Haber"
-      },
-      "TGRTHaber.tr": {
-        "epg": {
-            "channel": "TGRT Haber HD",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "45"
-          },
-          "group": "Haber"
-      },
-      "TurkHaberTV.tr": {
-        "epg": {
-            "channel": "TURKHABER TV",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "59"
-          },
-          "group": "Haber"
-      },
-      "FlashTV.tr": {
-        "epg": {
-            "channel": "Flash Haber TV",
-            "lang": "tr",
-            "site": "tvplus.com.tr",
-            "site_id": "50"
-          },
-          "group": "Haber"
-      },
-      "Number1TV.tr": {
-        "epg": {
-            "channel": "Number1 TV",
-            "lang": "tr",
-            "site": "tvplus.com.tr",
-            "site_id": "95"
-          },
-          "group": "Muzik"
-      },
-      "MilyonTV.tr": {
-        "epg": {
-            "channel": "Milyon",
-            "lang": "tr",
-            "site": "dsmart.com.tr",
-            "site_id": "121"
-          },
-          "group": "Muzik"
-      },
-      "TatlisesTV.tr": {
-        "epg": {
-            "channel": "Tatlıses Tv",
-            "lang": "tr",
-            "site": "dsmart.com.tr",
-            "site_id": "103"
-          },
-          "group": "Muzik"
-      },
-      "Number1Ask.tr": {
-        
-      },
-      "Number1Damar.tr": {
-       
-      },
-      "Number1Dance.tr": {
-  
-      },
-      "TRTMuzik.tr": {
-        "epg": {
-            "channel": "TRT Müzik",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "104"
-          },
-          "group": "Muzik"
-      },
-      "DreamTurk.tr": {
-        "epg": {
-            "channel": "DREAM TURK TV HD",
-            "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "2107"
-          },
-          "group": "Muzik"
-      },
-      "PowerTurkTV.tr": {
-        "epg": {
-            "channel": "POWER TURK",
-            "lang": "tr",
-            "site": "dsmart.com.tr",
-            "site_id": "107"
-          },
-          "group": "Muzik"
-      },
-      "PowerTV.tr": {
-        "epg": {
-            "channel": "Power TV",
-            "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "100"
-          },
-          "group": "Muzik"
-      },
-      "PowerTurkTaptaze.tr": {
-  
-      },
-      "PowerDance.tr": {
-  
-      },
-      "PowerLove.tr": {
-  
-      },
-      "PowerTurkAkustik.tr": {
-  
-      },
-      "PowerTurkSlow.tr": {
-  
-      }
     },
     "custom": {
       "ATV.tr": {
@@ -650,7 +158,7 @@
             "channel": "TAY TV",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "71"
+            "site_id": "71#59dca4d8cfef0b4d80a47b7a"
           },
           "group": "Spor"
       },
@@ -830,7 +338,7 @@
             "channel": "Spor Smart",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "74"
+            "site_id": "74#58d29bb0eefad3db9c60628a"
           },
           "group": "Spor"
       },
@@ -839,7 +347,7 @@
             "channel": "SPOR SMART 2",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "79"
+            "site_id": "79#5fcb6bd2cfef0b15931fcdf8"
           },
           "group": "Spor"
       },
@@ -893,7 +401,7 @@
             "channel": "Çocuk Smart",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "110"
+            "site_id": "110#58d29bb0eefad3db9c6062b5"
           },
           "group": "Cocuk"
       },
@@ -920,7 +428,7 @@
             "channel": "TRT 4K",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "174"
+            "site_id": "174#59dcbee1cfef0b4d80a49650"
           },
           "group": "Ulusal"
       },
@@ -1037,7 +545,7 @@
             "channel": "Dizi Smart Premium",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "16"
+            "site_id": "16#58d29bb0eefad3db9c60625a"
           },
           "group": "Sinema"
       },
@@ -1046,7 +554,7 @@
             "channel": "Dizi Smart Max",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "19"
+            "site_id": "19#58d29bb0eefad3db9c606278"
           },
           "group": "Sinema"
       },
@@ -1055,7 +563,7 @@
             "channel": "MovieSmart Classic",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "14"
+            "site_id": "14#58d29bb0eefad3db9c60629a"
           },
           "group": "Sinema"
       },
@@ -1064,7 +572,7 @@
             "channel": "MovieSmart Türk",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "15"
+            "site_id": "15#58d29bb0eefad3db9c606299"
           },
           "group": "Sinema"
       },
@@ -1091,7 +599,7 @@
             "channel": "Love Nature",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "70"
+            "site_id": "70#5dfc9faacfef0b201d2246b5"
           },
           "group": "Belgesel"
       },
@@ -1112,7 +620,7 @@
             "channel": "Viasat History",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "56"
+            "site_id": "56#58d29bb0eefad3db9c6062bd"
           },
           "group": "Belgesel"
       },
@@ -1124,7 +632,7 @@
             "channel": "History Channel",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "60"
+            "site_id": "60#61a408d7cfef0b1593ed2812"
           },
           "group": "Belgesel"
       },
@@ -1160,7 +668,7 @@
             "channel": "Woman TV",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "52"
+            "site_id": "52#61f934e2cfef0b1593123808"
           },
           "group": "Ulusal"
       },
