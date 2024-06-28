@@ -240,7 +240,7 @@
             "channel": "TGRT Belgesel",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "122#59dca751cfef0b4d80a47b88"
+            "site_id": "122"
           },
           "group": "Belgesel"
       },
@@ -420,7 +420,7 @@
             "channel": "Milyon",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "121#5c9889b0cfef0b4cffc475b4"
+            "site_id": "121"
           },
           "group": "Muzik"
       },
@@ -429,7 +429,7 @@
             "channel": "Tatlıses Tv",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "103#644a774dcfef0b02d28abccb"
+            "site_id": "103"
           },
           "group": "Muzik"
       },
@@ -465,7 +465,7 @@
             "channel": "POWER TURK",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "107#58d29bb0eefad3db9c6062ac"
+            "site_id": "107"
           },
           "group": "Muzik"
       },
@@ -650,7 +650,7 @@
             "channel": "TAY TV",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "71#59dca4d8cfef0b4d80a47b7a"
+            "site_id": "71"
           },
           "group": "Spor"
       },
@@ -830,7 +830,7 @@
             "channel": "Spor Smart",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "74#58d29bb0eefad3db9c60628a"
+            "site_id": "74"
           },
           "group": "Spor"
       },
@@ -839,7 +839,7 @@
             "channel": "SPOR SMART 2",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "79#5fcb6bd2cfef0b15931fcdf8"
+            "site_id": "79"
           },
           "group": "Spor"
       },
@@ -893,7 +893,7 @@
             "channel": "Çocuk Smart",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "110#58d29bb0eefad3db9c6062b5"
+            "site_id": "110"
           },
           "group": "Cocuk"
       },
@@ -920,7 +920,7 @@
             "channel": "TRT 4K",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "174#59dcbee1cfef0b4d80a49650"
+            "site_id": "174"
           },
           "group": "Ulusal"
       },
@@ -1037,7 +1037,7 @@
             "channel": "Dizi Smart Premium",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "16#58d29bb0eefad3db9c60625a"
+            "site_id": "16"
           },
           "group": "Sinema"
       },
@@ -1046,7 +1046,7 @@
             "channel": "Dizi Smart Max",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "19#58d29bb0eefad3db9c606278"
+            "site_id": "19"
           },
           "group": "Sinema"
       },
@@ -1055,7 +1055,7 @@
             "channel": "MovieSmart Classic",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "14#58d29bb0eefad3db9c60629a"
+            "site_id": "14"
           },
           "group": "Sinema"
       },
@@ -1064,7 +1064,7 @@
             "channel": "MovieSmart Türk",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "15#58d29bb0eefad3db9c606299"
+            "site_id": "15"
           },
           "group": "Sinema"
       },
@@ -1091,7 +1091,7 @@
             "channel": "Love Nature",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "70#5dfc9faacfef0b201d2246b5"
+            "site_id": "70"
           },
           "group": "Belgesel"
       },
@@ -1112,7 +1112,7 @@
             "channel": "Viasat History",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "56#58d29bb0eefad3db9c6062bd"
+            "site_id": "56"
           },
           "group": "Belgesel"
       },
@@ -1124,7 +1124,7 @@
             "channel": "History Channel",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "60#61a408d7cfef0b1593ed2812"
+            "site_id": "60"
           },
           "group": "Belgesel"
       },
@@ -1160,7 +1160,7 @@
             "channel": "Woman TV",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "52#61f934e2cfef0b1593123808"
+            "site_id": "52"
           },
           "group": "Ulusal"
       },
