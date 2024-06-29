@@ -1,25 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240629">
-<channel id="A2TV.tr"><display-name>A2TV</display-name><icon src="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"/><url>https://digiturk.com.tr</url></channel>
-<programme start="20240628190000 +0000" stop="20240628222000 +0000" channel="A2TV.tr"><title lang="tr">Eşkıya Dünyaya...</title></programme>
-<programme start="20240628222000 +0000" stop="20240629010000 +0000" channel="A2TV.tr"><title lang="tr">Benim İçin Üzülme</title></programme>
-<programme start="20240629010000 +0000" stop="20240629030000 +0000" channel="A2TV.tr"><title lang="tr">Beyaz Gelincik</title></programme>
-<programme start="20240629030000 +0000" stop="20240629050000 +0000" channel="A2TV.tr"><title lang="tr">Unutulmaz</title></programme>
-<programme start="20240629050000 +0000" stop="20240629080000 +0000" channel="A2TV.tr"><title lang="tr">Kertenkele</title></programme>
-<programme start="20240629080000 +0000" stop="20240629100000 +0000" channel="A2TV.tr"><title lang="tr">Selena</title></programme>
-<programme start="20240629100000 +0000" stop="20240629120000 +0000" channel="A2TV.tr"><title lang="tr">Kızlar ve Anneleri</title></programme>
-<programme start="20240629120000 +0000" stop="20240629150000 +0000" channel="A2TV.tr"><title lang="tr">Yahşi Cazibe</title></programme>
-<programme start="20240629150000 +0000" stop="20240629164500 +0000" channel="A2TV.tr"><title lang="tr">Alemin Kıralı</title></programme>
-<programme start="20240629164500 +0000" stop="20240629190000 +0000" channel="A2TV.tr"><title lang="tr">Bir Zamanlar Çukurova</title></programme>
-<programme start="20240629190000 +0000" stop="20240629222000 +0000" channel="A2TV.tr"><title lang="tr">Eşkıya Dünyaya...</title></programme>
-<programme start="20240629190000 +0000" stop="20240629222000 +0000" channel="A2TV.tr"><title lang="tr">Eşkıya Dünyaya...</title></programme>
-<programme start="20240629222000 +0000" stop="20240630002000 +0000" channel="A2TV.tr"><title lang="tr">Sağ Salim 2: Sil Baştan</title></programme>
-<programme start="20240630002000 +0000" stop="20240630022000 +0000" channel="A2TV.tr"><title lang="tr">Kapalıçarşı</title></programme>
-<programme start="20240630022000 +0000" stop="20240630050000 +0000" channel="A2TV.tr"><title lang="tr">Unutulmaz</title></programme>
-<programme start="20240630050000 +0000" stop="20240630080000 +0000" channel="A2TV.tr"><title lang="tr">Kertenkele</title></programme>
-<programme start="20240630080000 +0000" stop="20240630100000 +0000" channel="A2TV.tr"><title lang="tr">Selena</title></programme>
-<programme start="20240630100000 +0000" stop="20240630120000 +0000" channel="A2TV.tr"><title lang="tr">Kızlar ve Anneleri</title></programme>
-<programme start="20240630120000 +0000" stop="20240630150000 +0000" channel="A2TV.tr"><title lang="tr">Yahşi Cazibe</title></programme>
-<programme start="20240630150000 +0000" stop="20240630164500 +0000" channel="A2TV.tr"><title lang="tr">Alemin Kıralı</title></programme>
-<programme start="20240630164500 +0000" stop="20240630190000 +0000" channel="A2TV.tr"><title lang="tr">Bir Zamanlar Çukurova</title></programme>
-<programme start="20240630190000 +0000" stop="20240630222000 +0000" channel="A2TV.tr"><title lang="tr">Eşkıya Dünyaya...</title></programme>
+<channel id="Eurosport1.fr"><display-name>Eurosport 1</display-name><icon src="https://i.imgur.com/olQJgm7.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="Eurosport2.fr"><display-name>Eurosport 2</display-name><icon src="https://i.imgur.com/f56dHgR.png"/><url>https://turksatkablo.com.tr</url></channel>
+<programme start="20240628210000 +0000" stop="20240628213000 +0000" channel="Eurosport1.fr"><title lang="tr">Discovering the Giro</title></programme>
+<programme start="20240628213000 +0000" stop="20240628220000 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
+<programme start="20240628220000 +0000" stop="20240628230000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240628230000 +0000" stop="20240628233000 +0000" channel="Eurosport1.fr"><title lang="tr">Cycling Show</title></programme>
+<programme start="20240628233000 +0000" stop="20240629013000 +0000" channel="Eurosport1.fr"><title lang="tr">Snooker: World Masters</title></programme>
+<programme start="20240629013000 +0000" stop="20240629040000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240629040000 +0000" stop="20240629063000 +0000" channel="Eurosport1.fr"><title lang="tr">Snooker: World Masters</title></programme>
+<programme start="20240629063000 +0000" stop="20240629074500 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240629074500 +0000" stop="20240629081500 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
+<programme start="20240629081500 +0000" stop="20240629094500 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240629094500 +0000" stop="20240629161500 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240629161500 +0000" stop="20240629164500 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
+<programme start="20240629164500 +0000" stop="20240629174500 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240629174500 +0000" stop="20240629183000 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240629183000 +0000" stop="20240629203000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240629203000 +0000" stop="20240629221500 +0000" channel="Eurosport1.fr"><title lang="tr">Formula E</title></programme>
+<programme start="20240629210000 +0000" stop="20240629213000 +0000" channel="Eurosport1.fr"><title lang="tr">Discovering the Giro</title></programme>
+<programme start="20240629213000 +0000" stop="20240629220000 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
+<programme start="20240629220000 +0000" stop="20240629230000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240629230000 +0000" stop="20240629233000 +0000" channel="Eurosport1.fr"><title lang="tr">Cycling Show</title></programme>
+<programme start="20240629233000 +0000" stop="20240630013000 +0000" channel="Eurosport1.fr"><title lang="tr">Snooker: World Masters</title></programme>
+<programme start="20240630013000 +0000" stop="20240630040000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240630040000 +0000" stop="20240630063000 +0000" channel="Eurosport1.fr"><title lang="tr">Snooker: World Masters</title></programme>
+<programme start="20240630063000 +0000" stop="20240630074500 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240630074500 +0000" stop="20240630081500 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
+<programme start="20240630081500 +0000" stop="20240630094500 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240630094500 +0000" stop="20240630161500 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240630161500 +0000" stop="20240630164500 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
+<programme start="20240630164500 +0000" stop="20240630174500 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240630174500 +0000" stop="20240630183000 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240630183000 +0000" stop="20240630203000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240630203000 +0000" stop="20240630221500 +0000" channel="Eurosport1.fr"><title lang="tr">Formula E</title></programme>
+<programme start="20240628210000 +0000" stop="20240628220000 +0000" channel="Eurosport2.fr"><title lang="tr">-</title></programme>
+<programme start="20240628220000 +0000" stop="20240628233000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240628233000 +0000" stop="20240629013000 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240629013000 +0000" stop="20240629040000 +0000" channel="Eurosport2.fr"><title lang="tr">Snooker: World Masters</title></programme>
+<programme start="20240629040000 +0000" stop="20240629054500 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240629054500 +0000" stop="20240629061500 +0000" channel="Eurosport2.fr"><title lang="tr">Riding Resilience</title></programme>
+<programme start="20240629061500 +0000" stop="20240629074500 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240629074500 +0000" stop="20240629090000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240629090000 +0000" stop="20240629110000 +0000" channel="Eurosport2.fr"><title lang="tr">Le Mans 24 Saat</title></programme>
+<programme start="20240629110000 +0000" stop="20240629120000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240629120000 +0000" stop="20240629130000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240629130000 +0000" stop="20240629150000 +0000" channel="Eurosport2.fr"><title lang="tr">Dünya Snooker Şampiyonası</title></programme>
+<programme start="20240629150000 +0000" stop="20240629160000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240629160000 +0000" stop="20240629170000 +0000" channel="Eurosport2.fr"><title lang="tr">Chasing Glory</title></programme>
+<programme start="20240629170000 +0000" stop="20240629220000 +0000" channel="Eurosport2.fr"><title lang="tr">Golf: PGA Tour</title></programme>
+<programme start="20240629210000 +0000" stop="20240629220000 +0000" channel="Eurosport2.fr"><title lang="tr">-</title></programme>
+<programme start="20240629220000 +0000" stop="20240629233000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240629233000 +0000" stop="20240630013000 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240630013000 +0000" stop="20240630040000 +0000" channel="Eurosport2.fr"><title lang="tr">Snooker: World Masters</title></programme>
+<programme start="20240630040000 +0000" stop="20240630054500 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240630054500 +0000" stop="20240630061500 +0000" channel="Eurosport2.fr"><title lang="tr">Riding Resilience</title></programme>
+<programme start="20240630061500 +0000" stop="20240630074500 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
+<programme start="20240630074500 +0000" stop="20240630090000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240630090000 +0000" stop="20240630110000 +0000" channel="Eurosport2.fr"><title lang="tr">Le Mans 24 Saat</title></programme>
+<programme start="20240630110000 +0000" stop="20240630120000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240630120000 +0000" stop="20240630130000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240630130000 +0000" stop="20240630150000 +0000" channel="Eurosport2.fr"><title lang="tr">Dünya Snooker Şampiyonası</title></programme>
+<programme start="20240630150000 +0000" stop="20240630160000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
+<programme start="20240630160000 +0000" stop="20240630170000 +0000" channel="Eurosport2.fr"><title lang="tr">Chasing Glory</title></programme>
+<programme start="20240630170000 +0000" stop="20240630220000 +0000" channel="Eurosport2.fr"><title lang="tr">Golf: PGA Tour</title></programme>
 </tv>
