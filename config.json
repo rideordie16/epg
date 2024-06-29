@@ -1,20 +1,28 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "TGRTBelgesel.tr": {
+      "UlusalKanal.tr": {
         "epg": {
-            "channel": "TGRT Belgesel",
+            "channel": "ULUSAL TV",
             "lang": "tr",
-            "site": "dsmart.com.tr",
-            "site_id": "122"
+            "site": "digiturk.com.tr",
+            "site_id": "52"
           }
       },
-      "TGRTBelgesel.tr": {
+      "UlusalKanal.tr": {
         "epg": {
-            "channel": "TGRT Belgesel",
+            "channel": "Ulusal 1",
+            "lang": "tr",
+            "site": "turksatkablo.com.tr",
+            "site_id": "50"
+          }
+      },
+      "UlusalKanal.tr": {
+        "epg": {
+            "channel": "Ulusal TV",
             "lang": "tr",
             "site": "dsmart.com.tr",
-            "site_id": "122#59dca751cfef0b4d80a47b88"
+            "site_id": "86#58d29bb0eefad3db9c606242"
           }
       }
     }
