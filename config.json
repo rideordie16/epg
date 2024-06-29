@@ -3,10 +3,10 @@
     "whitelisted": {
       "UlusalKanal.tr": {
         "epg": {
-            "channel": "ULUSAL TV",
+            "channel": "Ulusal 1",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "52"
+            "site": "turksatkablo.com.tr",
+            "site_id": "50"
           }
       }
     }
