@@ -1,66 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240629">
-<channel id="Eurosport1.fr"><display-name>Eurosport 1</display-name><icon src="https://i.imgur.com/olQJgm7.png"/><url>https://turksatkablo.com.tr</url></channel>
-<channel id="Eurosport2.fr"><display-name>Eurosport 2</display-name><icon src="https://i.imgur.com/f56dHgR.png"/><url>https://turksatkablo.com.tr</url></channel>
-<programme start="20240628210000 +0000" stop="20240628213000 +0000" channel="Eurosport1.fr"><title lang="tr">Discovering the Giro</title></programme>
-<programme start="20240628213000 +0000" stop="20240628220000 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
-<programme start="20240628220000 +0000" stop="20240628230000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240628230000 +0000" stop="20240628233000 +0000" channel="Eurosport1.fr"><title lang="tr">Cycling Show</title></programme>
-<programme start="20240628233000 +0000" stop="20240629013000 +0000" channel="Eurosport1.fr"><title lang="tr">Snooker: World Masters</title></programme>
-<programme start="20240629013000 +0000" stop="20240629040000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240629040000 +0000" stop="20240629063000 +0000" channel="Eurosport1.fr"><title lang="tr">Snooker: World Masters</title></programme>
-<programme start="20240629063000 +0000" stop="20240629074500 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240629074500 +0000" stop="20240629081500 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
-<programme start="20240629081500 +0000" stop="20240629094500 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240629094500 +0000" stop="20240629161500 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240629161500 +0000" stop="20240629164500 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
-<programme start="20240629164500 +0000" stop="20240629174500 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240629174500 +0000" stop="20240629183000 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240629183000 +0000" stop="20240629203000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240629203000 +0000" stop="20240629221500 +0000" channel="Eurosport1.fr"><title lang="tr">Formula E</title></programme>
-<programme start="20240629210000 +0000" stop="20240629213000 +0000" channel="Eurosport1.fr"><title lang="tr">Discovering the Giro</title></programme>
-<programme start="20240629213000 +0000" stop="20240629220000 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
-<programme start="20240629220000 +0000" stop="20240629230000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240629230000 +0000" stop="20240629233000 +0000" channel="Eurosport1.fr"><title lang="tr">Cycling Show</title></programme>
-<programme start="20240629233000 +0000" stop="20240630013000 +0000" channel="Eurosport1.fr"><title lang="tr">Snooker: World Masters</title></programme>
-<programme start="20240630013000 +0000" stop="20240630040000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240630040000 +0000" stop="20240630063000 +0000" channel="Eurosport1.fr"><title lang="tr">Snooker: World Masters</title></programme>
-<programme start="20240630063000 +0000" stop="20240630074500 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240630074500 +0000" stop="20240630081500 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
-<programme start="20240630081500 +0000" stop="20240630094500 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240630094500 +0000" stop="20240630161500 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240630161500 +0000" stop="20240630164500 +0000" channel="Eurosport1.fr"><title lang="tr">Riding Resilience</title></programme>
-<programme start="20240630164500 +0000" stop="20240630174500 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240630174500 +0000" stop="20240630183000 +0000" channel="Eurosport1.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240630183000 +0000" stop="20240630203000 +0000" channel="Eurosport1.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240630203000 +0000" stop="20240630221500 +0000" channel="Eurosport1.fr"><title lang="tr">Formula E</title></programme>
-<programme start="20240628210000 +0000" stop="20240628220000 +0000" channel="Eurosport2.fr"><title lang="tr">-</title></programme>
-<programme start="20240628220000 +0000" stop="20240628233000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240628233000 +0000" stop="20240629013000 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240629013000 +0000" stop="20240629040000 +0000" channel="Eurosport2.fr"><title lang="tr">Snooker: World Masters</title></programme>
-<programme start="20240629040000 +0000" stop="20240629054500 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240629054500 +0000" stop="20240629061500 +0000" channel="Eurosport2.fr"><title lang="tr">Riding Resilience</title></programme>
-<programme start="20240629061500 +0000" stop="20240629074500 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240629074500 +0000" stop="20240629090000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240629090000 +0000" stop="20240629110000 +0000" channel="Eurosport2.fr"><title lang="tr">Le Mans 24 Saat</title></programme>
-<programme start="20240629110000 +0000" stop="20240629120000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240629120000 +0000" stop="20240629130000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240629130000 +0000" stop="20240629150000 +0000" channel="Eurosport2.fr"><title lang="tr">Dünya Snooker Şampiyonası</title></programme>
-<programme start="20240629150000 +0000" stop="20240629160000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240629160000 +0000" stop="20240629170000 +0000" channel="Eurosport2.fr"><title lang="tr">Chasing Glory</title></programme>
-<programme start="20240629170000 +0000" stop="20240629220000 +0000" channel="Eurosport2.fr"><title lang="tr">Golf: PGA Tour</title></programme>
-<programme start="20240629210000 +0000" stop="20240629220000 +0000" channel="Eurosport2.fr"><title lang="tr">-</title></programme>
-<programme start="20240629220000 +0000" stop="20240629233000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240629233000 +0000" stop="20240630013000 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240630013000 +0000" stop="20240630040000 +0000" channel="Eurosport2.fr"><title lang="tr">Snooker: World Masters</title></programme>
-<programme start="20240630040000 +0000" stop="20240630054500 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240630054500 +0000" stop="20240630061500 +0000" channel="Eurosport2.fr"><title lang="tr">Riding Resilience</title></programme>
-<programme start="20240630061500 +0000" stop="20240630074500 +0000" channel="Eurosport2.fr"><title lang="tr">Bisiklet: Fransa Turu</title></programme>
-<programme start="20240630074500 +0000" stop="20240630090000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240630090000 +0000" stop="20240630110000 +0000" channel="Eurosport2.fr"><title lang="tr">Le Mans 24 Saat</title></programme>
-<programme start="20240630110000 +0000" stop="20240630120000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240630120000 +0000" stop="20240630130000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240630130000 +0000" stop="20240630150000 +0000" channel="Eurosport2.fr"><title lang="tr">Dünya Snooker Şampiyonası</title></programme>
-<programme start="20240630150000 +0000" stop="20240630160000 +0000" channel="Eurosport2.fr"><title lang="tr">Tırmanış Dünya Kupası</title></programme>
-<programme start="20240630160000 +0000" stop="20240630170000 +0000" channel="Eurosport2.fr"><title lang="tr">Chasing Glory</title></programme>
-<programme start="20240630170000 +0000" stop="20240630220000 +0000" channel="Eurosport2.fr"><title lang="tr">Golf: PGA Tour</title></programme>
+<channel id="TLC.tr"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<programme start="20240628210000 +0000" stop="20240628213000 +0000" channel="TLC.tr"><title lang="tr">-</title></programme>
+<programme start="20240628213000 +0000" stop="20240628223000 +0000" channel="TLC.tr"><title lang="tr">Acımasız Kızlar</title></programme>
+<programme start="20240628223000 +0000" stop="20240628232500 +0000" channel="TLC.tr"><title lang="tr">Amerikan Dedektif</title></programme>
+<programme start="20240628232500 +0000" stop="20240629001000 +0000" channel="TLC.tr"><title lang="tr">Kötülük Yanıbaşımda</title></programme>
+<programme start="20240629001000 +0000" stop="20240629005500 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler Sahilde</title></programme>
+<programme start="20240629005500 +0000" stop="20240629014000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240629014000 +0000" stop="20240629022000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Ev</title></programme>
+<programme start="20240629022000 +0000" stop="20240629024000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
+<programme start="20240629024000 +0000" stop="20240629030000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
+<programme start="20240629030000 +0000" stop="20240629033000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240629033000 +0000" stop="20240629040000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240629040000 +0000" stop="20240629050000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat Tatilde</title></programme>
+<programme start="20240629050000 +0000" stop="20240629060000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat Tatilde</title></programme>
+<programme start="20240629060000 +0000" stop="20240629070000 +0000" channel="TLC.tr"><title lang="tr">Yazlıkları Değişelim</title></programme>
+<programme start="20240629070000 +0000" stop="20240629080000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240629080000 +0000" stop="20240629090000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240629090000 +0000" stop="20240629100000 +0000" channel="TLC.tr"><title lang="tr">Mücevher Dünyası</title></programme>
+<programme start="20240629100000 +0000" stop="20240629103000 +0000" channel="TLC.tr"><title lang="tr">Hint Düğünü Bizim İşimiz</title></programme>
+<programme start="20240629103000 +0000" stop="20240629110000 +0000" channel="TLC.tr"><title lang="tr">Hint Düğünü Bizim İşimiz</title></programme>
+<programme start="20240629110000 +0000" stop="20240629113000 +0000" channel="TLC.tr"><title lang="tr">Gelinliğe Evet De Hindistan</title></programme>
+<programme start="20240629113000 +0000" stop="20240629120000 +0000" channel="TLC.tr"><title lang="tr">Gelinliğe Evet De Hindistan</title></programme>
+<programme start="20240629120000 +0000" stop="20240629140000 +0000" channel="TLC.tr"><title lang="tr">Ağır Yaşamlar: Şimdi Ne Yapıyorlar?</title></programme>
+<programme start="20240629140000 +0000" stop="20240629150000 +0000" channel="TLC.tr"><title lang="tr">Hawaii Evleri Yenileniyor</title></programme>
+<programme start="20240629150000 +0000" stop="20240629160000 +0000" channel="TLC.tr"><title lang="tr">Gölde Emlak Günlükleri</title></programme>
+<programme start="20240629160000 +0000" stop="20240629163000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629163000 +0000" stop="20240629170000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629170000 +0000" stop="20240629173000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629173000 +0000" stop="20240629180000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629180000 +0000" stop="20240629183000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629183000 +0000" stop="20240629190000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629190000 +0000" stop="20240629200000 +0000" channel="TLC.tr"><title lang="tr">Rehine Operasyonu</title></programme>
+<programme start="20240629200000 +0000" stop="20240629210000 +0000" channel="TLC.tr"><title lang="tr">Güzellik Kraliçesi Cinayetleri</title></programme>
+<programme start="20240629210000 +0000" stop="20240629213000 +0000" channel="TLC.tr"><title lang="tr">-</title></programme>
+<programme start="20240629213000 +0000" stop="20240629223000 +0000" channel="TLC.tr"><title lang="tr">Acımasız Kızlar</title></programme>
+<programme start="20240629223000 +0000" stop="20240629232500 +0000" channel="TLC.tr"><title lang="tr">Amerikan Dedektif</title></programme>
+<programme start="20240629232500 +0000" stop="20240630001000 +0000" channel="TLC.tr"><title lang="tr">Kötülük Yanıbaşımda</title></programme>
+<programme start="20240630001000 +0000" stop="20240630005500 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler Sahilde</title></programme>
+<programme start="20240630005500 +0000" stop="20240630014000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240630014000 +0000" stop="20240630022000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Ev</title></programme>
+<programme start="20240630022000 +0000" stop="20240630024000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
+<programme start="20240630024000 +0000" stop="20240630030000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
+<programme start="20240630030000 +0000" stop="20240630033000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240630033000 +0000" stop="20240630040000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240630040000 +0000" stop="20240630050000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat Tatilde</title></programme>
+<programme start="20240630050000 +0000" stop="20240630060000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat Tatilde</title></programme>
+<programme start="20240630060000 +0000" stop="20240630070000 +0000" channel="TLC.tr"><title lang="tr">Yazlıkları Değişelim</title></programme>
+<programme start="20240630070000 +0000" stop="20240630080000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240630080000 +0000" stop="20240630090000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240630090000 +0000" stop="20240630100000 +0000" channel="TLC.tr"><title lang="tr">Mücevher Dünyası</title></programme>
+<programme start="20240630100000 +0000" stop="20240630103000 +0000" channel="TLC.tr"><title lang="tr">Hint Düğünü Bizim İşimiz</title></programme>
+<programme start="20240630103000 +0000" stop="20240630110000 +0000" channel="TLC.tr"><title lang="tr">Hint Düğünü Bizim İşimiz</title></programme>
+<programme start="20240630110000 +0000" stop="20240630113000 +0000" channel="TLC.tr"><title lang="tr">Gelinliğe Evet De Hindistan</title></programme>
+<programme start="20240630113000 +0000" stop="20240630120000 +0000" channel="TLC.tr"><title lang="tr">Gelinliğe Evet De Hindistan</title></programme>
+<programme start="20240630120000 +0000" stop="20240630140000 +0000" channel="TLC.tr"><title lang="tr">Ağır Yaşamlar: Şimdi Ne Yapıyorlar?</title></programme>
+<programme start="20240630140000 +0000" stop="20240630150000 +0000" channel="TLC.tr"><title lang="tr">Hawaii Evleri Yenileniyor</title></programme>
+<programme start="20240630150000 +0000" stop="20240630160000 +0000" channel="TLC.tr"><title lang="tr">Gölde Emlak Günlükleri</title></programme>
+<programme start="20240630160000 +0000" stop="20240630163000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240630163000 +0000" stop="20240630170000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240630170000 +0000" stop="20240630173000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240630173000 +0000" stop="20240630180000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240630180000 +0000" stop="20240630183000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240630183000 +0000" stop="20240630190000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240630190000 +0000" stop="20240630200000 +0000" channel="TLC.tr"><title lang="tr">Rehine Operasyonu</title></programme>
+<programme start="20240630200000 +0000" stop="20240630210000 +0000" channel="TLC.tr"><title lang="tr">Güzellik Kraliçesi Cinayetleri</title></programme>
 </tv>
