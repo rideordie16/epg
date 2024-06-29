@@ -22,13 +22,13 @@ Recommended free to use apps:
 #### Playlist:
 
 ```
-https://raw.githubusercontent.com/ghokun/tv/main/bin/playlist.m3u
+https://raw.githubusercontent.com/rideordie16/tv/main/bin/playlist.m3u
 ```
 
 #### EPG:
 
 ```
-https://raw.githubusercontent.com/ghokun/tv/main/bin/guide.xml
+https://raw.githubusercontent.com/rideordie16/tv/main/bin/guide.xml
 ```
 
 ## Disclaimer
