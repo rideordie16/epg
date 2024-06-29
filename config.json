@@ -1,20 +1,12 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "Eurosport1.fr": {
+      "TJKTV.tr": {
         "epg": {
-            "channel": "Eurosport 1",
+            "channel": "TJK TV",
             "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "176"
-          }
-      },
-      "Eurosport2.fr": {
-        "epg": {
-            "channel": "Eurosport 2",
-            "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "1604"
+            "site": "digiturk.com.tr",
+            "site_id": "89"
           }
       }
     }
