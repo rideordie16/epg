@@ -3,10 +3,10 @@
     "whitelisted": {
       "TLC.tr": {
         "epg": {
-            "channel": "TLC HD",
+            "channel": "TLC",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "30"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1885"
           }
       }
     }
