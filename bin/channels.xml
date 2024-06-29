@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Eurosport1.fr" site_id="176">Eurosport 1</channel>
-<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Eurosport2.fr" site_id="1604">Eurosport 2</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TJKTV.tr" site_id="89">TJK TV</channel>
 </channels>
