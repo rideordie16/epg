@@ -1,12 +1,12 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "UlusalKanal.tr": {
+      "FlashTV.tr": {
         "epg": {
-            "channel": "Ulusal 1",
+            "channel": "Flash Haber",
             "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "50"
+            "site": "dsmart.com.tr",
+            "site_id": "163#6163ee3dcfef0b1593d572b0"
           }
       }
     }
