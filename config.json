@@ -1,12 +1,20 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "TLC.tr": {
+      "TGRTBelgesel.tr": {
         "epg": {
-            "channel": "TLC",
+            "channel": "TGRT Belgesel",
             "lang": "tr",
-            "site": "turksatkablo.com.tr",
-            "site_id": "1885"
+            "site": "dsmart.com.tr",
+            "site_id": "122"
+          }
+      },
+      "TGRTBelgesel.tr": {
+        "epg": {
+            "channel": "TGRT Belgesel",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "122#59dca751cfef0b4d80a47b88"
           }
       }
     }
