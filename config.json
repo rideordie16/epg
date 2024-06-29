@@ -4,9 +4,9 @@
       "EuroStar.tr": {
         "epg": {
             "channel": "Euro Star",
-            "lang": "tr",
-            "site": "ziggogo.tv",
-            "site_id": "NL_000158_019266"
+            "lang": "de",
+            "site": "web.magentatv.de",
+            "site_id": "21"
           }
       }
     }
