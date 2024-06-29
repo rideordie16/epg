@@ -1,12 +1,12 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "Kanal7Avrupa.tr": {
+      "A2TV.tr": {
         "epg": {
-            "channel": "Kanal 7 Avrupa",
+            "channel": "A2 HD",
             "lang": "tr",
-            "site": "vivacom.bg",
-            "site_id": "24#Kanal 7 Avrupa "
+            "site": "digiturk.com.tr",
+            "site_id": "35"
           }
       }
     }
