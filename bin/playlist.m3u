@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="https://i.imgur.com/EwSg612.png" group-title="undefined",Ulusal Kanal (720p)
-https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+#EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="https://i.imgur.com/L0NHKBM.png" group-title="undefined",Flash TV (720p)
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
