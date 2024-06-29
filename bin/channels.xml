@@ -57,20 +57,20 @@
 <channel site="tv.blue.ch" lang="tr" xmltv_id="TV8International.tr" site_id="638">TV8 Int.</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="ShowMax.tr" site_id="1297">Showmax</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="CartoonNetwork.tr" site_id="169">Cartoon Network</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="Cartoonito.tr" site_id="168">Cartoonito</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="Boomerang.tr" site_id="168">Cartoonito</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="MinikaGo.tr" site_id="170">MinikaGO</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="MinikaCocuk.tr" site_id="396">Minika Çocuk</channel>
-<channel site="tvplus.com.tr" lang="tr" xmltv_id="A2TV.tr" site_id="35">A2 HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="A2TV.tr" site_id="35">A2 HD</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSportsHaber.tr" site_id="85">beIN SPORTS HABER</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TV85.tr" site_id="55">TV 8,5</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="ASpor.tr" site_id="88">A Spor HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="Eurosport1.fr" site_id="71">Eurosport 1 HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="Eurosport2.fr" site_id="72">Eurosport 2 HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Eurosport1.fr" site_id="176">Eurosport 1</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Eurosport2.fr" site_id="1604">Eurosport 2</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="FBTV.tr" site_id="76">FB TV HD</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TJKTV.tr" site_id="89">TJK TV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TAYTV.tr" site_id="71#59dca4d8cfef0b4d80a47b7a">TAY TV</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="DMAX.tr" site_id="49">DMAX HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="30">TLC HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="1885">TLC</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="DiscoveryChannel.tr" site_id="191">Discovery Channel HD</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="InvestigationDiscoveryEurope.us" site_id="1443">ID</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="NationalGeographic.tr" site_id="181">National Geographic HD</channel>
@@ -125,7 +125,7 @@
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="DaVinci.de" site_id="164">Da Vinci</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINGurme.tr" site_id="21">beIN GURME</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="WomanTV.tr" site_id="52#61f934e2cfef0b1593123808">Woman TV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="52">ULUSAL TV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="50">Ulusal 1</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="FashionTVEurope.fr" site_id="110">Fashion TV HD</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="FX.us" site_id="553">FX</channel>
 <channel site="sky.com" lang="en" xmltv_id="SkySportsF1.uk" site_id="1306">SkySp F1</channel>
