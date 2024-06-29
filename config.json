@@ -3,10 +3,10 @@
     "whitelisted": {
       "EuroStar.tr": {
         "epg": {
-            "channel": "Eurostar TV",
-            "lang": "de",
-            "site": "web.magentatv.de",
-            "site_id": "21"
+            "channel": "Euro Star",
+            "lang": "tr",
+            "site": "dsmart.com.tr",
+            "site_id": "180#59dcc000cfef0b4d80a4974d"
           }
       }
     }
