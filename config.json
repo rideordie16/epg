@@ -546,18 +546,18 @@
       },
       "Eurosport1.fr": {
         "epg": {
-            "channel": "Eurosport 1 HD",
+            "channel": "Eurosport 1",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "71"
+            "site": "turksatkablo.com.tr",
+            "site_id": "176"
           }
       },
       "Eurosport2.fr": {
         "epg": {
-            "channel": "Eurosport 2 HD",
+            "channel": "Eurosport 2",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "72"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1604"
           }
       },
       "FBTV.tr": {
@@ -594,10 +594,10 @@
       },
       "TLC.tr": {
         "epg": {
-            "channel": "TLC HD",
+            "channel": "TLC",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "30"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1885"
           }
       },
       "DiscoveryChannel.tr": {
@@ -1040,10 +1040,10 @@
       },
       "UlusalKanal.tr": {
         "epg": {
-            "channel": "ULUSAL TV",
+            "channel": "Ulusal 1",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "52"
+            "site": "turksatkablo.com.tr",
+            "site_id": "50"
           }
       },
       "FashionTVEurope.fr": {
