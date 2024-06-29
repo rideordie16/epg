@@ -1,12 +1,12 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "Boomerang.tr": {
+      "Kanal7Avrupa.tr": {
         "epg": {
-            "channel": "Cartoonito",
+            "channel": "Kanal 7 Avrupa",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "168"
+            "site": "vivacom.bg",
+            "site_id": "24#Kanal 7 Avrupa "
           }
       }
     }
