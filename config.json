@@ -1,12 +1,12 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "EuroStar.tr": {
+      "Boomerang.tr": {
         "epg": {
-            "channel": "Euro Star",
+            "channel": "Cartoonito",
             "lang": "tr",
-            "site": "dsmart.com.tr",
-            "site_id": "180#59dcc000cfef0b4d80a4974d"
+            "site": "digiturk.com.tr",
+            "site_id": "168"
           }
       }
     }
