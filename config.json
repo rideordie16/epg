@@ -1,12 +1,12 @@
 {
     "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "whitelisted": {
-      "TJKTV.tr": {
+      "TLC.tr": {
         "epg": {
-            "channel": "TJK TV",
+            "channel": "TLC HD",
             "lang": "tr",
-            "site": "tvplus.com.tr",
-            "site_id": "15"
+            "site": "digiturk.com.tr",
+            "site_id": "30"
           }
       }
     }
