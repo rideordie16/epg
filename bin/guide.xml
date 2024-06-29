@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240629">
-<channel id="EuroStar.tr"><display-name>EuroStar</display-name><icon src="https://i.imgur.com/kb165Ot.png"/><url>https://ziggogo.tv</url></channel>
-<programme start="20240628230000 +0000" stop="20240629030000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629030000 +0000" stop="20240629070000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629030000 +0000" stop="20240629070000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629070000 +0000" stop="20240629110000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629110000 +0000" stop="20240629150000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629110000 +0000" stop="20240629150000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629150000 +0000" stop="20240629190000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629150000 +0000" stop="20240629190000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629190000 +0000" stop="20240629230000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629230000 +0000" stop="20240630030000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240629230000 +0000" stop="20240630030000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630030000 +0000" stop="20240630070000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630030000 +0000" stop="20240630070000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630070000 +0000" stop="20240630110000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630110000 +0000" stop="20240630150000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630110000 +0000" stop="20240630150000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630150000 +0000" stop="20240630190000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630150000 +0000" stop="20240630190000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630190000 +0000" stop="20240630230000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
-<programme start="20240630230000 +0000" stop="20240701030000 +0000" channel="EuroStar.tr"><title lang="tr">Eurostar</title></programme>
+<channel id="EuroStar.tr"><display-name>EuroStar</display-name><icon src="https://i.imgur.com/kb165Ot.png"/><url>https://web.magentatv.de</url></channel>
+<programme start="20240628230000 +0000" stop="20240629030000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240629030000 +0000" stop="20240629070000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240629070000 +0000" stop="20240629110000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240629110000 +0000" stop="20240629150000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240629150000 +0000" stop="20240629190000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240629190000 +0000" stop="20240629230000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240629230000 +0000" stop="20240630030000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240629230000 +0000" stop="20240630030000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240630030000 +0000" stop="20240630070000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240630070000 +0000" stop="20240630110000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240630110000 +0000" stop="20240630150000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240630150000 +0000" stop="20240630190000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240630190000 +0000" stop="20240630230000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
+<programme start="20240630230000 +0000" stop="20240701030000 +0000" channel="EuroStar.tr"><title lang="de">Eurostar</title><icon src="http://ngiss.t-online.de/cm1s/media/90ab41ca5c8896dd41e967d6f129e4169d91db61.png"/></programme>
 </tv>
