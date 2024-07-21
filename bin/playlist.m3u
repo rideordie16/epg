@@ -7,8 +7,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="undefined",Show TV
 http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="undefined",Fox Türkiye (720p)
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="undefined",TV 8 (1080p) [Not 24/7]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="undefined",Euro D (720p)
