@@ -1,4 +1,4 @@
-name: Generate TV playlist and EPG
+name: Generate TV playlist
 on:
   schedule:
     - cron: "0 21 * * *"
