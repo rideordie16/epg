@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT1.tr" site_id="23">TRT 1 HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="KanalD.tr" site_id="24">Kanal D HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="StarTV.tr" site_id="27">Star TV HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="ShowTV.tr" site_id="22">Show TV HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="Fox.tr" site_id="26">FOX HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="28">TV8 HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRT1.tr" site_id="15">TRT 1</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="KanalD.tr" site_id="94">Kanal D</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="StarTV.tr" site_id="90">Star</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="ShowTV.tr" site_id="92">Show</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Fox.tr" site_id="87">FOX</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="24">TV8</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
 <channel site="ziggogo.tv" lang="tr" xmltv_id="ShowTurk.tr" site_id="NL_000156_020072">ShowTürk</channel>
 <channel site="ziggogo.tv" lang="tr" xmltv_id="EuroStar.tr" site_id="NL_000158_019266">Euro Star</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT2.tr" site_id="66">TRT 2 HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="61">TRT TURK</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTCocuk.tr" site_id="160">TRT Çocuk</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="Kanal7.tr" site_id="34">KANAL 7 HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRT2.tr" site_id="1957">TRT 2</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="114">TRT Türk</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRTCocuk.tr" site_id="18">TRT Çocuk</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Kanal7.tr" site_id="1399">KANAL 7</channel>
 <channel site="vivacom.bg" lang="tr" xmltv_id="Kanal7Avrupa.tr" site_id="24#Kanal 7 Avrupa">Kanal 7 Avrupa</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="36">BEYAZ TV HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="Teve2.tr" site_id="54">Teve2 HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="360.tr" site_id="29">360 HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="1410">Beyaz TV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Teve2.tr" site_id="132">TEVE2</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="360.tr" site_id="30">360</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TV4.tr" site_id="3688">TV 4</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEU.tr" site_id="602">TGRT EU</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Tivi6.tr" site_id="3719">TİVİ 6</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTSpor.tr" site_id="86">TRT SPOR HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTSporYildiz.tr" site_id="87">TRT SPOR YILDIZ</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRTSpor.tr" site_id="392">TRT Spor</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRTSporYildiz.tr" site_id="2021">TRT Spor Yıldız</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SportsTV.tr" site_id="329">SPORTS TV</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="GSTV.tr" site_id="75">GS TV HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="190">TRT Belgesel HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTAvaz.tr" site_id="57">TRT AVAZ</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="285">TRT Belgesel</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRTAvaz.tr" site_id="195">TRT Avaz</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TGRTBelgesel.tr" site_id="122#59dca751cfef0b4d80a47b88">TGRT Belgesel</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTHaber.tr" site_id="33">TRT Haber HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="42">CNN TÜRK HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="NTV.tr" site_id="41">NTV HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="HalkTV.tr" site_id="53">Halk TV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="UlkeTV.tr" site_id="38">Ülke TV HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="HaberGlobal.tr" site_id="47">HABER GLOBAL HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="BloombergHT.tr" site_id="31">Bloomberg TV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="HaberturkTV.tr" site_id="44">HABERTURK HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRTHaber.tr" site_id="16">TRT Haber</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="20">CNN Türk</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="NTV.tr" site_id="21">NTV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="HalkTV.tr" site_id="371">Halk TV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="UlkeTV.tr" site_id="125">Ülke TV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="HaberGlobal.tr" site_id="1968">Haber Global</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="BloombergHT.tr" site_id="295">Bloomberg HT</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="HaberturkTV.tr" site_id="22">HABERTÜRK TV</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="24TV.tr" site_id="105">24</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TV100.tr" site_id="37">TV 100 HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="KRT.tr" site_id="62">KRT TV HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TVNET.tr" site_id="39">TVNET HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="Ekoturk.tr" site_id="46">EKOTÜRK TV HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TV100.tr" site_id="2000">tv 100</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="KRT.tr" site_id="1462">KRT TV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TVNET.tr" site_id="1419">Tvnet</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Ekoturk.tr" site_id="1940">Ekotürk</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="AkitTV.tr" site_id="1775">Akit</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="BenguturkTV.tr" site_id="63">BENGÜTÜRK TV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TGRTHaber.tr" site_id="45">TGRT Haber HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TurkHaberTV.tr" site_id="59">TURKHABER TV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="BenguturkTV.tr" site_id="1915">Bengü Türk TV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TGRTHaber.tr" site_id="86">TGRT Haber</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TurkHaberTV.tr" site_id="3775">TH Türk Haber</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="FlashTV.tr" site_id="50">Flash Haber TV</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="Number1TV.tr" site_id="95">Number1 TV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="MilyonTV.tr" site_id="121#5c9889b0cfef0b4cffc475b4">Milyon</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TatlisesTV.tr" site_id="103#644a774dcfef0b02d28abccb">Tatlıses Tv</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTMuzik.tr" site_id="104">TRT Müzik</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TRTMuzik.tr" site_id="291">TRT Müzik</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="DreamTurk.tr" site_id="2107">DREAM TURK TV HD</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="PowerTurkTV.tr" site_id="107#58d29bb0eefad3db9c6062ac">POWER TURK</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="PowerTV.tr" site_id="100">Power TV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="ATV.tr" site_id="25">ATV</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="ATV.tr" site_id="83">Atv</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="ATVAvrupa.tr" site_id="30">ATV Avrupa</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="TV8International.tr" site_id="638">TV8 Int.</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="ShowMax.tr" site_id="1297">Showmax</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="CartoonNetwork.tr" site_id="169">Cartoon Network</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="CartoonNetwork.tr" site_id="146">Cartoon Network</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="Boomerang.tr" site_id="168">Cartoonito</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="MinikaGo.tr" site_id="170">MinikaGO</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="MinikaGo.tr" site_id="367">Minika Go</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="MinikaCocuk.tr" site_id="396">Minika Çocuk</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="A2TV.tr" site_id="35">A2 HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSportsHaber.tr" site_id="85">beIN SPORTS HABER</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TV85.tr" site_id="55">TV 8,5</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="ASpor.tr" site_id="88">A Spor HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="A2TV.tr" site_id="1834">a2</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="beINSportsHaber.tr" site_id="1871">beIN SPORTS HABER</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TV85.tr" site_id="1849">TV 8,5</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="ASpor.tr" site_id="1400">A Spor</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Eurosport1.fr" site_id="176">Eurosport 1</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Eurosport2.fr" site_id="1604">Eurosport 2</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="FBTV.tr" site_id="76">FB TV HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="FBTV.tr" site_id="47">FB TV</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TJKTV.tr" site_id="89">TJK TV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TAYTV.tr" site_id="71#59dca4d8cfef0b4d80a47b7a">TAY TV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="DMAX.tr" site_id="49">DMAX HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="DMAX.tr" site_id="1900">DMAX</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="1885">TLC</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="DiscoveryChannel.tr" site_id="191">Discovery Channel HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="DiscoveryChannel.tr" site_id="1765">Discovery Channel</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="InvestigationDiscoveryEurope.us" site_id="1443">ID</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="NationalGeographic.tr" site_id="181">National Geographic HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="NationalGeographicWild.tr" site_id="185">Nat Geo Wild HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="AHaber.tr" site_id="32">A Haber HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="APara.tr" site_id="43">A Para HD</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="SZC.tr" site_id="60">SÖZCÜ TV HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="NationalGeographic.tr" site_id="1431">National Geographic</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="NationalGeographicWild.tr" site_id="309">National Geographic Wild</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="AHaber.tr" site_id="365">A Haber</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="APara.tr" site_id="1937">a Para</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SZC.tr" site_id="3779">SZC</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="Tele1.tr" site_id="48">TELE 1 HD</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSports1.tr" site_id="77">beIN SPORTS 1</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSports2.tr" site_id="78">beIN SPORTS 2</channel>
@@ -115,14 +115,14 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="DiziSmartMax.tr" site_id="19#58d29bb0eefad3db9c606278">Dizi Smart Max</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="MovieSmartClassic.tr" site_id="14#58d29bb0eefad3db9c60629a">MovieSmart Classic</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="MovieSmartTurk.tr" site_id="15#58d29bb0eefad3db9c606299">MovieSmart Türk</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="BBCEarth.tr" site_id="183">BBC EARTH HD</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="BBCEarth.tr" site_id="1386">BBC Earth</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINIZ.tr" site_id="18">beIN İZ</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="LoveNature.ca" site_id="70#5dfc9faacfef0b201d2246b5">Love Nature</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TarihTV.tr" site_id="3735">Tarih Tv</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="ViasatHistory.tr" site_id="56#58d29bb0eefad3db9c6062bd">Viasat History</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="HistoryChannel.tr" site_id="60#61a408d7cfef0b1593ed2812">History Channel</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="Yaban.tr" site_id="189">Yaban TV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="DaVinci.de" site_id="164">Da Vinci</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="DaVinci.de" site_id="469">Da Vinci</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINGurme.tr" site_id="21">beIN GURME</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="WomanTV.tr" site_id="52#61f934e2cfef0b1593123808">Woman TV</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="50">Ulusal 1</channel>
