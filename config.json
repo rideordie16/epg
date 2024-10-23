@@ -3,50 +3,50 @@
     "whitelisted": {
       "TRT1.tr": {
         "epg": {
-            "channel": "TRT 1 HD",
+            "channel": "TRT 1",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "23"
+            "site": "turksatkablo.com.tr",
+            "site_id": "15"
           }
       },
       "KanalD.tr": {
         "epg": {
-            "channel": "Kanal D HD",
+            "channel": "Kanal D",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "24"
+            "site": "turksatkablo.com.tr",
+            "site_id": "94"
           }
       },
       "StarTV.tr": {
         "epg": {
-            "channel": "Star TV HD",
+            "channel": "Star",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "27"
+            "site": "turksatkablo.com.tr",
+            "site_id": "90"
           }
       },
       "ShowTV.tr": {
         "epg": {
-            "channel": "Show TV HD",
+            "channel": "Show",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "22"
+            "site": "turksatkablo.com.tr",
+            "site_id": "92"
           }
       },
       "Fox.tr": {
         "epg": {
-            "channel": "FOX HD",
+            "channel": "FOX",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "26"
+            "site": "turksatkablo.com.tr",
+            "site_id": "87"
           }
       },
       "TV8.tr": {
         "epg": {
-            "channel": "TV8 HD",
+            "channel": "TV8",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "28"
+            "site": "turksatkablo.com.tr",
+            "site_id": "24"
           }
       },
       "EuroD.tr": {
@@ -75,34 +75,34 @@
       },
       "TRT2.tr": {
         "epg": {
-            "channel": "TRT 2 HD",
+            "channel": "TRT 2",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "66"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1957"
           }
       },
       "TRTTurk.tr": {
         "epg": {
-            "channel": "TRT TURK",
+            "channel": "TRT Türk",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "61"
+            "site": "turksatkablo.com.tr",
+            "site_id": "114"
           }
       },
       "TRTCocuk.tr": {
         "epg": {
             "channel": "TRT Çocuk",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "160"
+            "site": "turksatkablo.com.tr",
+            "site_id": "18"
           }
       },
       "Kanal7.tr": {
         "epg": {
-            "channel": "KANAL 7 HD",
+            "channel": "KANAL 7",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "34"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1399"
           }
       },
       "Kanal7Avrupa.tr": {
@@ -115,26 +115,26 @@
       },
       "BeyazTV.tr": {
         "epg": {
-            "channel": "BEYAZ TV HD",
+            "channel": "Beyaz TV",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "36"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1410"
           }
       },
       "Teve2.tr": {
         "epg": {
-            "channel": "Teve2 HD",
+            "channel": "TEVE2",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "54"
+            "site": "turksatkablo.com.tr",
+            "site_id": "132"
           }
       },
       "360.tr": {
         "epg": {
-            "channel": "360 HD",
+            "channel": "360",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "29"
+            "site": "turksatkablo.com.tr",
+            "site_id": "30"
           }
       },
       "TV4.tr": {
@@ -163,18 +163,18 @@
       },
       "TRTSpor.tr": {
         "epg": {
-            "channel": "TRT SPOR HD",
+            "channel": "TRT Spor",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "86"
+            "site": "turksatkablo.com.tr",
+            "site_id": "392"
           }
       },
       "TRTSporYildiz.tr": {
         "epg": {
-            "channel": "TRT SPOR YILDIZ",
+            "channel": "TRT Spor Yıldız",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "87"
+            "site": "turksatkablo.com.tr",
+            "site_id": "2021"
           }
       },
       "SportsTV.tr": {
@@ -195,18 +195,18 @@
       },
       "TRTBelgesel.tr": {
         "epg": {
-            "channel": "TRT Belgesel HD",
+            "channel": "TRT Belgesel",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "190"
+            "site": "turksatkablo.com.tr",
+            "site_id": "285"
           }
       },
       "TRTAvaz.tr": {
         "epg": {
-            "channel": "TRT AVAZ",
+            "channel": "TRT Avaz",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "57"
+            "site": "turksatkablo.com.tr",
+            "site_id": "195"
           }
       },
       "TGRTBelgesel.tr": {
@@ -219,66 +219,66 @@
       },
       "TRTHaber.tr": {
         "epg": {
-            "channel": "TRT Haber HD",
+            "channel": "TRT Haber",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "33"
+            "site": "turksatkablo.com.tr",
+            "site_id": "16"
           }
       },
       "CNNTurk.tr": {
         "epg": {
-            "channel": "CNN TÜRK HD",
+            "channel": "CNN Türk",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "42"
+            "site": "turksatkablo.com.tr",
+            "site_id": "20"
           }
       },
       "NTV.tr": {
         "epg": {
-            "channel": "NTV HD",
+            "channel": "NTV",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "41"
+            "site": "turksatkablo.com.tr",
+            "site_id": "21"
           }
       },
       "HalkTV.tr": {
         "epg": {
             "channel": "Halk TV",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "53"
+            "site": "turksatkablo.com.tr",
+            "site_id": "371"
           }
       },
       "UlkeTV.tr": {
         "epg": {
-            "channel": "Ülke TV HD",
+            "channel": "Ülke TV",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "38"
+            "site": "turksatkablo.com.tr",
+            "site_id": "125"
           }
       },
       "HaberGlobal.tr": {
         "epg": {
-            "channel": "HABER GLOBAL HD",
+            "channel": "Haber Global",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "47"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1968"
           }
       },
       "BloombergHT.tr": {
         "epg": {
-            "channel": "Bloomberg TV",
+            "channel": "Bloomberg HT",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "31"
+            "site": "turksatkablo.com.tr",
+            "site_id": "295"
           }
       },
       "HaberturkTV.tr": {
         "epg": {
-            "channel": "HABERTURK HD",
+            "channel": "HABERTÜRK TV",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "44"
+            "site": "turksatkablo.com.tr",
+            "site_id": "22"
           }
       },
       "24TV.tr": {
@@ -291,34 +291,34 @@
       },
       "TV100.tr": {
         "epg": {
-            "channel": "TV 100 HD",
+            "channel": "tv 100",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "37"
+            "site": "turksatkablo.com.tr",
+            "site_id": "2000"
           }
       },
       "KRT.tr": {
         "epg": {
-            "channel": "KRT TV HD",
+            "channel": "KRT TV",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "62"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1462"
           }
       },
       "TVNET.tr": {
         "epg": {
-            "channel": "TVNET HD",
+            "channel": "Tvnet",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "39"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1419"
           }
       },
       "Ekoturk.tr": {
         "epg": {
-            "channel": "EKOTÜRK TV HD",
+            "channel": "Ekotürk",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "46"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1940"
           }
       },
       "AkitTV.tr": {
@@ -331,26 +331,26 @@
       },
       "BenguturkTV.tr": {
         "epg": {
-            "channel": "BENGÜTÜRK TV",
+            "channel": "Bengü Türk TV",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "63"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1915"
           }
       },
       "TGRTHaber.tr": {
         "epg": {
-            "channel": "TGRT Haber HD",
+            "channel": "TGRT Haber",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "45"
+            "site": "turksatkablo.com.tr",
+            "site_id": "86"
           }
       },
       "TurkHaberTV.tr": {
         "epg": {
-            "channel": "TURKHABER TV",
+            "channel": "TH Türk Haber",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "59"
+            "site": "turksatkablo.com.tr",
+            "site_id": "3775"
           }
       },
       "FlashTV.tr": {
@@ -398,8 +398,8 @@
         "epg": {
             "channel": "TRT Müzik",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "104"
+            "site": "turksatkablo.com.tr",
+            "site_id": "291"
           }
       },
       "DreamTurk.tr": {
@@ -443,10 +443,10 @@
       },
       "ATV.tr": {
         "epg": {
-            "channel": "ATV",
+            "channel": "Atv",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "25"
+            "site": "turksatkablo.com.tr",
+            "site_id": "83"
           }
       },
       "ATVAvrupa.tr": {
@@ -477,8 +477,8 @@
         "epg": {
             "channel": "Cartoon Network",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "169"
+            "site": "turksatkablo.com.tr",
+            "site_id": "146"
           }
       },
       "Boomerang.tr": {
@@ -491,10 +491,10 @@
       },
       "MinikaGo.tr": {
         "epg": {
-            "channel": "MinikaGO",
+            "channel": "Minika Go",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "170"
+            "site": "turksatkablo.com.tr",
+            "site_id": "367"
           }
       },
       "MinikaCocuk.tr": {
@@ -507,10 +507,10 @@
       },
       "A2TV.tr": {
         "epg": {
-            "channel": "A2 HD",
+            "channel": "a2",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "35"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1834"
           }
       },
       "blutvplay1.tr": {
@@ -523,8 +523,8 @@
         "epg": {
             "channel": "beIN SPORTS HABER",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "85"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1871"
           }
       },
       "TV85.tr": {
@@ -532,15 +532,15 @@
             "channel": "TV 8,5",
             "lang": "tr",
             "site": "digiturk.com.tr",
-            "site_id": "55"
+            "site_id": "1849"
           }
       },
       "ASpor.tr": {
         "epg": {
-            "channel": "A Spor HD",
+            "channel": "A Spor",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "88"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1400"
           },
           "group": "Spor"
       },
@@ -562,10 +562,10 @@
       },
       "FBTV.tr": {
         "epg": {
-            "channel": "FB TV HD",
+            "channel": "FB TV",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "76"
+            "site": "turksatkablo.com.tr",
+            "site_id": "47"
           }
       },
       "TJKTV.tr": {
@@ -586,10 +586,10 @@
       },
       "DMAX.tr": {
         "epg": {
-            "channel": "DMAX HD",
+            "channel": "DMAX",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "49"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1900"
           }
       },
       "TLC.tr": {
@@ -602,10 +602,10 @@
       },
       "DiscoveryChannel.tr": {
         "epg": {
-            "channel": "Discovery Channel HD",
+            "channel": "Discovery Channel",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "191"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1765"
           }
       },
       "InvestigationDiscoveryEurope.us": {
@@ -618,42 +618,42 @@
       },
       "NationalGeographic.tr": {
         "epg": {
-            "channel": "National Geographic HD",
+            "channel": "National Geographic",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "181"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1431"
           }
       },
       "NationalGeographicWild.tr": {
         "epg": {
-            "channel": "Nat Geo Wild HD",
+            "channel": "National Geographic Wild",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "185"
+            "site": "turksatkablo.com.tr",
+            "site_id": "309"
           }
       },
       "AHaber.tr": {
         "epg": {
-            "channel": "A Haber HD",
+            "channel": "A Haber",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "32"
+            "site": "turksatkablo.com.tr",
+            "site_id": "365"
           }
       },
       "APara.tr": {
         "epg": {
-            "channel": "A Para HD",
+            "channel": "a Para",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "43"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1937"
           }
       },
       "SZC.tr": {
         "epg": {
-            "channel": "SÖZCÜ TV HD",
+            "channel": "SZC",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "60"
+            "site": "turksatkablo.com.tr",
+            "site_id": "3779"
           }
       },
       "Tele1.tr": {
@@ -954,10 +954,10 @@
       },
       "BBCEarth.tr": {
         "epg": {
-            "channel": "BBC EARTH HD",
+            "channel": "BBC Earth",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "183"
+            "site": "turksatkablo.com.tr",
+            "site_id": "1386"
           }
       },
       "beINIZ.tr": {
@@ -1018,8 +1018,8 @@
         "epg": {
             "channel": "Da Vinci",
             "lang": "tr",
-            "site": "digiturk.com.tr",
-            "site_id": "164"
+            "site": "turksatkablo.com.tr",
+            "site_id": "469"
           }
       },
       "beINGurme.tr": {
