@@ -23,7 +23,7 @@
 | TRT Spor Yildiz (1080p) [Geo-blocked] | Not available                                           | https://tv-trtspor2.medya.trt.com.tr/master.m3u8                                                       |
 | Sports TV (720p) [Geo-blocked]        | 1280x720, 1920x1080                                     | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | GSTV [Geo-blocked]                    | Not available                                           | https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8                                            |
-| TRT Belgesel (720p)                   | 1280x720                                                | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
+| TRT Belgesel (720p)                   | 1280x720, 854x480, 640x360                              | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
 | TRT Avaz (720p)                       | 1280x720, 854x480, 640x360                              | https://tv-trtavaz.medya.trt.com.tr/master.m3u8                                                        |
 | TGRT Belgesel TV (576p)               | Not available                                           | https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8                                                |
 | TRT Haber (720p)                      | 1280x720, 854x480, 640x360                              | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
@@ -66,7 +66,7 @@
 | TJK TV (1080p)                        | Not available                                           | https://tjktv-live.tjk.org/tjktv.m3u8                                                                  |
 | A Haber                               | 256x144, 426x240, 640x360, 854x480, 1280x720, 1920x1080 | https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8                                        |
 | Tele1 (1080p) [Not 24/7]              | 256x144, 426x240, 640x360, 854x480, 1280x720, 1920x1080 | https://ythls.armelin.one/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8                                        |
-| TRT 4K (2160p)                        | Not available                                           | https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8                                                          |
-| Woman TV (1080p)                      | 1920x1080                                               | https://embedlp.becdn.net/womantv.m3u8                                                                 |
-| Ulusal Kanal (720p)                   | Not available                                           | https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8                                        |
+| TRT 4K (2160p)                        | 1920x1080, 1280x720, 960x540, 640x360                   | https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8                                                          |
+| Woman TV (1080p)                      | 1920x1080, 640x360                                      | https://embedlp.becdn.net/womantv.m3u8                                                                 |
+| Ulusal Kanal (720p)                   | 1280x720                                                | https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8                                        |
 | Fashion TV                            | 960x540, 1920x1080, 1280x720, 640x360, 384x216          | https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8                                         |
