@@ -24,7 +24,7 @@
 | Sports TV (720p) [Geo-blocked]        | 1280x720, 1920x1080                            | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | GSTV [Geo-blocked]                    | Not available                                  | https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8                                            |
 | TRT Belgesel (720p)                   | 1280x720, 854x480, 640x360                     | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
-| TRT Avaz (720p)                       | 1280x720                                       | https://tv-trtavaz.medya.trt.com.tr/master.m3u8                                                        |
+| TRT Avaz (720p)                       | 1280x720, 854x480, 640x360                     | https://tv-trtavaz.medya.trt.com.tr/master.m3u8                                                        |
 | TGRT Belgesel TV (576p)               | Not available                                  | https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8                                                |
 | TRT Haber (720p)                      | 1280x720, 854x480, 640x360                     | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
 | NTV (720p) [Not 24/7]                 | Not available                                  | https://dogus-live.daioncdn.net/ntv/ntv.m3u8                                                           |
@@ -33,11 +33,11 @@
 | Haber Global                          | 1280x720                                       | https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8                                       |
 | Bloomberg HT                          | 1280x720                                       | https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8                                      |
 | Habertürk TV (1080p)                  | 1920x1080, 1280x720, 854x480, 640x360          | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
-| 24 TV                                 | 1280x720, 640x360                              | https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8                                                 |
+| 24 TV                                 | , 854x480                                      | https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8                                                 |
 | TV 100 (720p)                         | 1280x720                                       | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
 | KRT (720p)                            | 1280x720                                       | https://krt.blutv.com/blutv_krt_live/live.m3u8                                                         |
 | TVnet (720p)                          | 1280x720                                       | https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8                                                      |
-| Ekoturk                               | , 854x480, 640x360                             | https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8                                                     |
+| Ekoturk                               | 1280x720, 960x540, 640x360                     | https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8                                                     |
 | Akit TV (720p)                        | 1280x720, 854x480, 640x360                     | https://akittv-live.ercdn.net/akittv/akittv.m3u8                                                       |
 | BENGÜTÜRK TV (720p) [Not 24/7]        | 1280x720, 854x480, 640x360                     | https://tv.ensonhaber.com/benguturk/benguturk.m3u8                                                     |
 | TGRT Haber (720p)                     | 1280x720                                       | https://canli.tgrthaber.com/tgrt.m3u8                                                                  |
