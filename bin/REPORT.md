@@ -33,7 +33,7 @@
 | Haber Global                          | 1280x720                                       | https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8                                       |
 | Bloomberg HT                          | 1280x720                                       | https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8                                      |
 | Habertürk TV (1080p)                  | 1920x1080, 1280x720, 854x480, 640x360          | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
-| 24 TV                                 | , 960x540, 854x480, 640x360                    | https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8                                                 |
+| 24 TV                                 | 1280x720, 960x540, 854x480, 640x360            | https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8                                                 |
 | TV 100 (720p)                         | 1280x720                                       | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
 | KRT (720p)                            | 1280x720                                       | https://krt.blutv.com/blutv_krt_live/live.m3u8                                                         |
 | TVnet (720p)                          | 1280x720                                       | https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8                                                      |
