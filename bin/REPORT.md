@@ -5,8 +5,8 @@
 | Kanal D (1080p)                       | 1920x1080, 1280x720, 854x480, 640x360          | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
 | Star TV (720p) [Not 24/7]             | 1280x720, 854x480, 640x360                     | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
 | Show TV                               | Not available                                  | http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8                                         |
-| TV 8 (1080p) [Not 24/7]               | Not available                                  | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
-| Euro D (720p)                         | 426x240, 640x360, 854x480, 960x540, 1280x720   | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
+| TV 8 (1080p) [Not 24/7]               | 1920x1080, 1280x720, 854x480, 640x360          | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
+| Euro D (720p)                         | Not available                                  | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
 | Show Turk                             | Not available                                  | https://showturk.blutv.com/blutv_showturk2/live.m3u8                                                   |
 | EuroStar TV (720p)                    | Not available                                  | https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8                                                      |
 | TRT 2                                 | Not available                                  | https://trt2.blutv.com/blutv_trt2/live.m3u8                                                            |
@@ -50,7 +50,7 @@
 | Number 1 Damar (720p)                 | 1280x720                                       | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8 |
 | Number 1 Dance (720p)                 | 1280x720                                       | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8 |
 | TRT Müzik (720p)                      | 1280x720, 854x480, 640x360                     | https://tv-trtmuzik.medya.trt.com.tr/master.m3u8                                                       |
-| Dream Türk (720p)                     | 426x240, 640x360, 854x480, 960x540, 1280x720   | https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8                                           |
+| Dream Türk (720p)                     | Not available                                  | https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8                                           |
 | PowerTurk TV                          | Not available                                  | https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8                            |
 | Power TV (1080p)                      | Not available                                  | https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8                                      |
 | Power Türk Taptaze (1080p)            | 1920x1080                                      | https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8                                 |
