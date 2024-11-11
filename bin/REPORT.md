@@ -24,7 +24,7 @@
 | Sports TV (720p) [Geo-blocked]        | 1280x720, 1920x1080                            | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | GSTV [Geo-blocked]                    | Not available                                  | https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8                                            |
 | TRT Belgesel (720p)                   | 1280x720, 854x480, 640x360                     | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
-| TRT Avaz (720p)                       | 1280x720, 854x480, 640x360                     | https://tv-trtavaz.medya.trt.com.tr/master.m3u8                                                        |
+| TRT Avaz (720p)                       | 1280x720                                       | https://tv-trtavaz.medya.trt.com.tr/master.m3u8                                                        |
 | TGRT Belgesel TV (576p)               | Not available                                  | https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8                                                |
 | TRT Haber (720p)                      | 1280x720, 854x480, 640x360                     | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
 | NTV (720p) [Not 24/7]                 | Not available                                  | https://dogus-live.daioncdn.net/ntv/ntv.m3u8                                                           |
@@ -50,14 +50,14 @@
 | Number 1 Damar (720p)                 | 1280x720                                       | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8 |
 | Number 1 Dance (720p)                 | 1280x720                                       | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8 |
 | TRT Müzik (720p)                      | 1280x720, 854x480, 640x360                     | https://tv-trtmuzik.medya.trt.com.tr/master.m3u8                                                       |
-| Dream Türk (720p)                     | Not available                                  | https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8                                           |
+| Dream Türk (720p)                     | 426x240, 640x360, 854x480, 960x540, 1280x720   | https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8                                           |
 | PowerTurk TV                          | Not available                                  | https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8                            |
 | Power TV (1080p)                      | Not available                                  | https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8                                      |
 | Power Türk Taptaze (1080p)            | 1920x1080                                      | https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8                                 |
 | Power Dance (1080p)                   | 1920x1080                                      | https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8                                          |
 | Power Love (1080p)                    | 1920x1080                                      | https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8                                           |
 | Power Türk Akustik (1080p)            | 1920x1080                                      | https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8                                 |
-| Power Türk Slow (1080p)               | 1920x1080                                      | https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8                                       |
+| Power Türk Slow (1080p)               | Not available                                  | https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8                                       |
 | ATV Avrupa (1080p) [Not 24/7]         | Not available                                  | https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8                                        |
 | TV8 International (720p)              | Not available                                  | http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8                                                    |
 | Minika Go (576p) [Not 24/7]           | Not available                                  | https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8                                        |
