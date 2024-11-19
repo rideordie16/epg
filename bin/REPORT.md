@@ -5,7 +5,7 @@
 | Kanal D (1080p)                       | 1920x1080, 1280x720, 854x480, 640x360          | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
 | Star TV (720p) [Not 24/7]             | 1280x720, 854x480, 640x360                     | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
 | Show TV                               | Not available                                  | http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8                                         |
-| TV 8 (1080p) [Not 24/7]               | 1920x1080, 1280x720, 854x480, 640x360          | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
+| TV 8 (1080p) [Not 24/7]               | Not available                                  | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
 | Euro D (720p)                         | 426x240, 640x360, 854x480, 960x540, 1280x720   | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
 | Show Turk                             | Not available                                  | https://showturk.blutv.com/blutv_showturk2/live.m3u8                                                   |
 | EuroStar TV (720p)                    | Not available                                  | https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8                                                      |
@@ -33,12 +33,12 @@
 | Haber Global                          | 1280x720                                       | https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8                                       |
 | Bloomberg HT                          | 1280x720                                       | https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8                                      |
 | Habertürk TV (1080p)                  | 1920x1080, 1280x720, 854x480, 640x360          | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
-| 24 TV                                 | 1280x720, 960x540, 854x480, 640x360            | https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8                                                 |
+| 24 TV                                 | , 854x480, 640x360                             | https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8                                                 |
 | TV 100 (720p)                         | 1280x720                                       | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
 | KRT (720p)                            | 1280x720                                       | https://krt.blutv.com/blutv_krt_live/live.m3u8                                                         |
 | TVnet (720p)                          | 1280x720                                       | https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8                                                      |
 | Ekoturk                               | 1280x720, 960x540, 854x480, 640x360            | https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8                                                     |
-| Akit TV (720p)                        | 1280x720                                       | https://akittv-live.ercdn.net/akittv/akittv.m3u8                                                       |
+| Akit TV (720p)                        | , 640x360                                      | https://akittv-live.ercdn.net/akittv/akittv.m3u8                                                       |
 | BENGÜTÜRK TV (720p) [Not 24/7]        | 1280x720, 854x480, 640x360                     | https://tv.ensonhaber.com/benguturk/benguturk.m3u8                                                     |
 | TGRT Haber (720p)                     | 1280x720                                       | https://canli.tgrthaber.com/tgrt.m3u8                                                                  |
 | TürkHaber (720p)                      | 1280x720                                       | https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8                                             |
