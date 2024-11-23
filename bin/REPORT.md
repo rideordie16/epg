@@ -34,7 +34,7 @@
 | Bloomberg HT                          | 1280x720                                       | https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8                                      |
 | Habertürk TV (1080p)                  | 1920x1080, 1280x720, 854x480, 640x360          | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
 | 24 TV                                 | 1280x720, 960x540, 640x360                     | https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8                                                 |
-| TV 100 (720p)                         | 1280x720                                       | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
+| TV 100 (720p)                         | 1280x720, 960x540, 854x480, 640x360            | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
 | KRT (720p)                            | 1280x720                                       | https://krt.blutv.com/blutv_krt_live/live.m3u8                                                         |
 | TVnet (720p)                          | 1280x720                                       | https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8                                                      |
 | Ekoturk                               | 1280x720, 960x540, 854x480, 640x360            | https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8                                                     |
@@ -46,7 +46,7 @@
 | Number 1 TV (720p)                    | Not available                                  | https://mn-nl.mncdn.com/blutv_nr12/live.m3u8                                                           |
 | Milyon TV (720p)                      | 1280x720                                       | https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8                                      |
 | Tatlises TV (1080p) [Not 24/7]        | 1920x1080                                      | https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8                      |
-| Number 1 Ask (720p)                   |                                                | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8 |
+| Number 1 Ask (720p)                   | 1280x720                                       | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8 |
 | Number 1 Damar (720p)                 | 1280x720                                       | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8 |
 | Number 1 Dance (720p)                 | 1280x720                                       | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8 |
 | TRT Müzik (720p)                      | 1280x720, 854x480, 640x360                     | https://tv-trtmuzik.medya.trt.com.tr/master.m3u8                                                       |
