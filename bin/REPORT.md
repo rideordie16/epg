@@ -6,7 +6,7 @@
 | Star TV (720p) [Not 24/7]             | 1280x720, 854x480, 640x360                     | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
 | Show TV                               | Not available                                  | http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8                                         |
 | TV 8 (1080p) [Not 24/7]               | Not available                                  | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
-| Euro D (720p)                         | 426x240, 640x360, 854x480, 960x540, 1280x720   | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
+| Euro D (720p)                         | Not available                                  | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
 | Show Turk                             | Not available                                  | https://showturk.blutv.com/blutv_showturk2/live.m3u8                                                   |
 | EuroStar TV (720p)                    | Not available                                  | https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8                                                      |
 | TRT 2                                 | Not available                                  | https://trt2.blutv.com/blutv_trt2/live.m3u8                                                            |
@@ -18,10 +18,10 @@
 | Teve2 (1080p)                         | 1920x1080, 1280x720, 854x480, 640x360          | https://demiroren-live.daioncdn.net/teve2/teve2.m3u8                                                   |
 | 360 TV (720p) [Not 24/7]              | 1280x720, 854x480, 640x360                     | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
 | TV4 (720p)                            | 1280x720, 854x480, 640x360                     | https://turkmedya-live.ercdn.net/tv4/tv4.m3u8                                                          |
-| Tivi 6 (720p)                         | 1280x720                                       | https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8                                |
+| Tivi 6 (720p)                         | Not available                                  | https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8                                |
 | TRT Spor (1080p) [Geo-blocked]        | Not available                                  | https://tv-trtspor1.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Spor Yildiz (1080p) [Geo-blocked] | Not available                                  | https://tv-trtspor2.medya.trt.com.tr/master.m3u8                                                       |
-| Sports TV (720p) [Geo-blocked]        | 1280x720                                       | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
+| Sports TV (720p) [Geo-blocked]        | 1280x720, 1920x1080                            | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | GSTV [Geo-blocked]                    | Not available                                  | https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8                                            |
 | TRT Belgesel (720p)                   | 1280x720, 854x480, 640x360                     | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
 | TRT Avaz (720p)                       | 1280x720, 854x480, 640x360                     | https://tv-trtavaz.medya.trt.com.tr/master.m3u8                                                        |
@@ -37,16 +37,16 @@
 | TV 100 (720p)                         | 1280x720                                       | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
 | KRT (720p)                            | 1280x720                                       | https://krt.blutv.com/blutv_krt_live/live.m3u8                                                         |
 | TVnet (720p)                          | 1280x720                                       | https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8                                                      |
-| Ekoturk                               | 1280x720, 960x540, 854x480, 640x360            | https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8                                                     |
+| Ekoturk                               | 1280x720, 960x540, 854x480                     | https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8                                                     |
 | Akit TV (720p)                        | 1280x720                                       | https://akittv-live.ercdn.net/akittv/akittv.m3u8                                                       |
 | BENGÜTÜRK TV (720p) [Not 24/7]        | 1280x720, 854x480, 640x360                     | https://tv.ensonhaber.com/benguturk/benguturk.m3u8                                                     |
 | TGRT Haber (720p)                     | 1280x720                                       | https://canli.tgrthaber.com/tgrt.m3u8                                                                  |
 | TürkHaber (720p)                      | 1280x720                                       | https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8                                             |
 | Flash TV (720p)                       | Not available                                  | https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8                                                        |
 | Number 1 TV (720p)                    | Not available                                  | https://mn-nl.mncdn.com/blutv_nr12/live.m3u8                                                           |
-| Milyon TV (720p)                      | 1280x720                                       | https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8                                      |
+| Milyon TV (720p)                      | Not available                                  | https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8                                      |
 | Tatlises TV (1080p) [Not 24/7]        | 1920x1080                                      | https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8                      |
-| Number 1 Ask (720p)                   | Not available                                  | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8 |
+| Number 1 Ask (720p)                   |                                                | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8 |
 | Number 1 Damar (720p)                 | 1280x720                                       | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8 |
 | Number 1 Dance (720p)                 | 854x480                                        | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8 |
 | TRT Müzik (720p)                      | 1280x720, 854x480, 640x360                     | https://tv-trtmuzik.medya.trt.com.tr/master.m3u8                                                       |
