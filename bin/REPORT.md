@@ -21,7 +21,7 @@
 | Tivi 6 (720p)                         | 1280x720                                       | https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8                                |
 | TRT Spor (1080p) [Geo-blocked]        | Not available                                  | https://tv-trtspor1.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Spor Yildiz (1080p) [Geo-blocked] | Not available                                  | https://tv-trtspor2.medya.trt.com.tr/master.m3u8                                                       |
-| Sports TV (720p) [Geo-blocked]        | , 1920x1080                                    | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
+| Sports TV (720p) [Geo-blocked]        | 1280x720, 1920x1080                            | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | GSTV [Geo-blocked]                    | Not available                                  | https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8                                            |
 | TRT Belgesel (720p)                   | 1280x720, 854x480, 640x360                     | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
 | TRT Avaz (720p)                       | 1280x720, 854x480, 640x360                     | https://tv-trtavaz.medya.trt.com.tr/master.m3u8                                                        |
@@ -35,11 +35,11 @@
 | Habertürk TV (1080p)                  | 1920x1080, 1280x720, 854x480, 640x360          | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
 | 24 TV                                 | 1280x720, 960x540, 854x480, 640x360            | https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8                                                 |
 | TV 100 (720p)                         | 1280x720, 960x540, 640x360                     | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
-| KRT (720p)                            | , 640x360                                      | https://krt.blutv.com/blutv_krt_live/live.m3u8                                                         |
+| KRT (720p)                            | 1280x720, 960x540, 640x360                     | https://krt.blutv.com/blutv_krt_live/live.m3u8                                                         |
 | TVnet (720p)                          | 1280x720                                       | https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8                                                      |
 | Ekoturk                               | 1280x720, 960x540, 640x360                     | https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8                                                     |
 | Akit TV (720p)                        | 1280x720                                       | https://akittv-live.ercdn.net/akittv/akittv.m3u8                                                       |
-| BENGÜTÜRK TV (720p) [Not 24/7]        | , 640x360                                      | https://tv.ensonhaber.com/benguturk/benguturk.m3u8                                                     |
+| BENGÜTÜRK TV (720p) [Not 24/7]        | 1280x720, 854x480                              | https://tv.ensonhaber.com/benguturk/benguturk.m3u8                                                     |
 | TGRT Haber (720p)                     | 1280x720                                       | https://canli.tgrthaber.com/tgrt.m3u8                                                                  |
 | TürkHaber (720p)                      | 1280x720                                       | https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8                                             |
 | Flash TV (720p)                       | Not available                                  | https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8                                                        |
