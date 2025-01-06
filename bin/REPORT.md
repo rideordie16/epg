@@ -58,9 +58,14 @@
 | Power Love (1080p)                    | Not available | https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8                                           |
 | Power Türk Akustik (1080p)            | Not available | https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8                                 |
 | Power Türk Slow (1080p)               | Not available | https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8                                       |
+| ATV                                   | Not available | https://c.fulltvizle.com/aytv/index.m3u8                                                               |
 | ATV Avrupa (1080p) [Not 24/7]         | Not available | https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8                                        |
 | TV8 International (720p)              | Not available | http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8                                                    |
+| Show Max                              | Not available | https://canlitvulusal.xyz/live/showmax/index.m3u8                                                      |
+| Cartoon Network                       | Not available | https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8                                               |
 | Minika Go (576p) [Not 24/7]           | Not available | https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8                                        |
+| A2TV                                  | Not available | https://c.fulltvizle.com/a2/index.m3u8                                                                 |
+| beIN Sports Haber                     | Not available | https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8                                             |
 | TV 8.5 (720p)                         | Not available | http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8                                                     |
 | A Spor (1080p) [Not 24/7]             | Not available | https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8                                        |
 | TJK TV (1080p)                        | Not available | https://tjktv-live.tjk.org/tjktv.m3u8                                                                  |
